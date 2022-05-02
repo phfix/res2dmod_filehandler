@@ -1,0 +1,5896 @@
+Gradient array
+Number of configurations
+1176
+Unit electrode spacing
+10
+Coordinates of electrodes (xc1,zc1,xc2,zc2,xp1,zp1,xp2,zp2)
+Configuration 1
+0,0
+720,0
+240,0
+480,0
+Configuration 2
+0,0
+720,0
+320,0
+400,0
+Configuration 3
+0,0
+720,0
+160,0
+560,0
+Configuration 4
+0,0
+720,0
+80,0
+640,0
+Configuration 5
+20,0
+740,0
+260,0
+500,0
+Configuration 6
+20,0
+740,0
+340,0
+420,0
+Configuration 7
+20,0
+740,0
+180,0
+580,0
+Configuration 8
+20,0
+740,0
+100,0
+660,0
+Configuration 9
+40,0
+760,0
+280,0
+520,0
+Configuration 10
+40,0
+760,0
+360,0
+440,0
+Configuration 11
+40,0
+760,0
+200,0
+600,0
+Configuration 12
+40,0
+760,0
+120,0
+680,0
+Configuration 13
+60,0
+780,0
+300,0
+540,0
+Configuration 14
+60,0
+780,0
+380,0
+460,0
+Configuration 15
+60,0
+780,0
+220,0
+620,0
+Configuration 16
+60,0
+780,0
+140,0
+700,0
+Configuration 17
+80,0
+800,0
+320,0
+560,0
+Configuration 18
+80,0
+800,0
+400,0
+480,0
+Configuration 19
+80,0
+800,0
+240,0
+640,0
+Configuration 20
+80,0
+800,0
+160,0
+720,0
+Configuration 21
+0,0
+660,0
+220,0
+440,0
+Configuration 22
+0,0
+660,0
+280,0
+380,0
+Configuration 23
+0,0
+660,0
+160,0
+500,0
+Configuration 24
+0,0
+660,0
+80,0
+580,0
+Configuration 25
+20,0
+680,0
+240,0
+460,0
+Configuration 26
+20,0
+680,0
+300,0
+400,0
+Configuration 27
+20,0
+680,0
+180,0
+520,0
+Configuration 28
+20,0
+680,0
+100,0
+600,0
+Configuration 29
+40,0
+700,0
+260,0
+480,0
+Configuration 30
+40,0
+700,0
+320,0
+420,0
+Configuration 31
+40,0
+700,0
+200,0
+540,0
+Configuration 32
+40,0
+700,0
+120,0
+620,0
+Configuration 33
+60,0
+720,0
+280,0
+500,0
+Configuration 34
+60,0
+720,0
+340,0
+440,0
+Configuration 35
+60,0
+720,0
+220,0
+560,0
+Configuration 36
+60,0
+720,0
+140,0
+640,0
+Configuration 37
+80,0
+740,0
+300,0
+520,0
+Configuration 38
+80,0
+740,0
+360,0
+460,0
+Configuration 39
+80,0
+740,0
+240,0
+580,0
+Configuration 40
+80,0
+740,0
+160,0
+660,0
+Configuration 41
+100,0
+760,0
+320,0
+540,0
+Configuration 42
+100,0
+760,0
+380,0
+480,0
+Configuration 43
+100,0
+760,0
+260,0
+600,0
+Configuration 44
+100,0
+760,0
+180,0
+680,0
+Configuration 45
+120,0
+780,0
+340,0
+560,0
+Configuration 46
+120,0
+780,0
+400,0
+500,0
+Configuration 47
+120,0
+780,0
+280,0
+620,0
+Configuration 48
+120,0
+780,0
+200,0
+700,0
+Configuration 49
+140,0
+800,0
+360,0
+580,0
+Configuration 50
+140,0
+800,0
+420,0
+520,0
+Configuration 51
+140,0
+800,0
+300,0
+640,0
+Configuration 52
+140,0
+800,0
+220,0
+720,0
+Configuration 53
+0,0
+600,0
+200,0
+400,0
+Configuration 54
+0,0
+600,0
+260,0
+340,0
+Configuration 55
+0,0
+600,0
+140,0
+460,0
+Configuration 56
+0,0
+600,0
+60,0
+540,0
+Configuration 57
+20,0
+620,0
+220,0
+420,0
+Configuration 58
+20,0
+620,0
+280,0
+360,0
+Configuration 59
+20,0
+620,0
+160,0
+480,0
+Configuration 60
+20,0
+620,0
+80,0
+560,0
+Configuration 61
+40,0
+640,0
+240,0
+440,0
+Configuration 62
+40,0
+640,0
+300,0
+380,0
+Configuration 63
+40,0
+640,0
+180,0
+500,0
+Configuration 64
+40,0
+640,0
+100,0
+580,0
+Configuration 65
+60,0
+660,0
+260,0
+460,0
+Configuration 66
+60,0
+660,0
+320,0
+400,0
+Configuration 67
+60,0
+660,0
+200,0
+520,0
+Configuration 68
+60,0
+660,0
+120,0
+600,0
+Configuration 69
+80,0
+680,0
+280,0
+480,0
+Configuration 70
+80,0
+680,0
+340,0
+420,0
+Configuration 71
+80,0
+680,0
+220,0
+540,0
+Configuration 72
+80,0
+680,0
+140,0
+620,0
+Configuration 73
+100,0
+700,0
+300,0
+500,0
+Configuration 74
+100,0
+700,0
+360,0
+440,0
+Configuration 75
+100,0
+700,0
+240,0
+560,0
+Configuration 76
+100,0
+700,0
+160,0
+640,0
+Configuration 77
+120,0
+720,0
+320,0
+520,0
+Configuration 78
+120,0
+720,0
+380,0
+460,0
+Configuration 79
+120,0
+720,0
+260,0
+580,0
+Configuration 80
+120,0
+720,0
+180,0
+660,0
+Configuration 81
+140,0
+740,0
+340,0
+540,0
+Configuration 82
+140,0
+740,0
+400,0
+480,0
+Configuration 83
+140,0
+740,0
+280,0
+600,0
+Configuration 84
+140,0
+740,0
+200,0
+680,0
+Configuration 85
+160,0
+760,0
+360,0
+560,0
+Configuration 86
+160,0
+760,0
+420,0
+500,0
+Configuration 87
+160,0
+760,0
+300,0
+620,0
+Configuration 88
+160,0
+760,0
+220,0
+700,0
+Configuration 89
+180,0
+780,0
+380,0
+580,0
+Configuration 90
+180,0
+780,0
+440,0
+520,0
+Configuration 91
+180,0
+780,0
+320,0
+640,0
+Configuration 92
+180,0
+780,0
+240,0
+720,0
+Configuration 93
+200,0
+800,0
+400,0
+600,0
+Configuration 94
+200,0
+800,0
+460,0
+540,0
+Configuration 95
+200,0
+800,0
+340,0
+660,0
+Configuration 96
+200,0
+800,0
+260,0
+740,0
+Configuration 97
+0,0
+800,0
+80,0
+160,0
+Configuration 98
+0,0
+800,0
+240,0
+320,0
+Configuration 99
+0,0
+800,0
+400,0
+480,0
+Configuration 100
+0,0
+800,0
+560,0
+640,0
+Configuration 101
+0,0
+800,0
+160,0
+240,0
+Configuration 102
+0,0
+800,0
+320,0
+400,0
+Configuration 103
+0,0
+800,0
+480,0
+560,0
+Configuration 104
+0,0
+800,0
+640,0
+720,0
+Configuration 105
+0,0
+600,0
+60,0
+120,0
+Configuration 106
+0,0
+600,0
+180,0
+240,0
+Configuration 107
+0,0
+600,0
+300,0
+360,0
+Configuration 108
+0,0
+600,0
+420,0
+480,0
+Configuration 109
+0,0
+600,0
+120,0
+180,0
+Configuration 110
+0,0
+600,0
+240,0
+300,0
+Configuration 111
+0,0
+600,0
+360,0
+420,0
+Configuration 112
+0,0
+600,0
+480,0
+540,0
+Configuration 113
+20,0
+620,0
+80,0
+140,0
+Configuration 114
+20,0
+620,0
+200,0
+260,0
+Configuration 115
+20,0
+620,0
+320,0
+380,0
+Configuration 116
+20,0
+620,0
+440,0
+500,0
+Configuration 117
+20,0
+620,0
+140,0
+200,0
+Configuration 118
+20,0
+620,0
+260,0
+320,0
+Configuration 119
+20,0
+620,0
+380,0
+440,0
+Configuration 120
+20,0
+620,0
+500,0
+560,0
+Configuration 121
+40,0
+640,0
+100,0
+160,0
+Configuration 122
+40,0
+640,0
+220,0
+280,0
+Configuration 123
+40,0
+640,0
+340,0
+400,0
+Configuration 124
+40,0
+640,0
+460,0
+520,0
+Configuration 125
+40,0
+640,0
+160,0
+220,0
+Configuration 126
+40,0
+640,0
+280,0
+340,0
+Configuration 127
+40,0
+640,0
+400,0
+460,0
+Configuration 128
+40,0
+640,0
+520,0
+580,0
+Configuration 129
+60,0
+660,0
+120,0
+180,0
+Configuration 130
+60,0
+660,0
+240,0
+300,0
+Configuration 131
+60,0
+660,0
+360,0
+420,0
+Configuration 132
+60,0
+660,0
+480,0
+540,0
+Configuration 133
+60,0
+660,0
+180,0
+240,0
+Configuration 134
+60,0
+660,0
+300,0
+360,0
+Configuration 135
+60,0
+660,0
+420,0
+480,0
+Configuration 136
+60,0
+660,0
+540,0
+600,0
+Configuration 137
+80,0
+680,0
+140,0
+200,0
+Configuration 138
+80,0
+680,0
+260,0
+320,0
+Configuration 139
+80,0
+680,0
+380,0
+440,0
+Configuration 140
+80,0
+680,0
+500,0
+560,0
+Configuration 141
+80,0
+680,0
+200,0
+260,0
+Configuration 142
+80,0
+680,0
+320,0
+380,0
+Configuration 143
+80,0
+680,0
+440,0
+500,0
+Configuration 144
+80,0
+680,0
+560,0
+620,0
+Configuration 145
+100,0
+700,0
+160,0
+220,0
+Configuration 146
+100,0
+700,0
+280,0
+340,0
+Configuration 147
+100,0
+700,0
+400,0
+460,0
+Configuration 148
+100,0
+700,0
+520,0
+580,0
+Configuration 149
+100,0
+700,0
+220,0
+280,0
+Configuration 150
+100,0
+700,0
+340,0
+400,0
+Configuration 151
+100,0
+700,0
+460,0
+520,0
+Configuration 152
+100,0
+700,0
+580,0
+640,0
+Configuration 153
+120,0
+720,0
+180,0
+240,0
+Configuration 154
+120,0
+720,0
+300,0
+360,0
+Configuration 155
+120,0
+720,0
+420,0
+480,0
+Configuration 156
+120,0
+720,0
+540,0
+600,0
+Configuration 157
+120,0
+720,0
+240,0
+300,0
+Configuration 158
+120,0
+720,0
+360,0
+420,0
+Configuration 159
+120,0
+720,0
+480,0
+540,0
+Configuration 160
+120,0
+720,0
+600,0
+660,0
+Configuration 161
+140,0
+740,0
+200,0
+260,0
+Configuration 162
+140,0
+740,0
+320,0
+380,0
+Configuration 163
+140,0
+740,0
+440,0
+500,0
+Configuration 164
+140,0
+740,0
+560,0
+620,0
+Configuration 165
+140,0
+740,0
+260,0
+320,0
+Configuration 166
+140,0
+740,0
+380,0
+440,0
+Configuration 167
+140,0
+740,0
+500,0
+560,0
+Configuration 168
+140,0
+740,0
+620,0
+680,0
+Configuration 169
+160,0
+760,0
+220,0
+280,0
+Configuration 170
+160,0
+760,0
+340,0
+400,0
+Configuration 171
+160,0
+760,0
+460,0
+520,0
+Configuration 172
+160,0
+760,0
+580,0
+640,0
+Configuration 173
+160,0
+760,0
+280,0
+340,0
+Configuration 174
+160,0
+760,0
+400,0
+460,0
+Configuration 175
+160,0
+760,0
+520,0
+580,0
+Configuration 176
+160,0
+760,0
+640,0
+700,0
+Configuration 177
+180,0
+780,0
+240,0
+300,0
+Configuration 178
+180,0
+780,0
+360,0
+420,0
+Configuration 179
+180,0
+780,0
+480,0
+540,0
+Configuration 180
+180,0
+780,0
+600,0
+660,0
+Configuration 181
+180,0
+780,0
+300,0
+360,0
+Configuration 182
+180,0
+780,0
+420,0
+480,0
+Configuration 183
+180,0
+780,0
+540,0
+600,0
+Configuration 184
+180,0
+780,0
+660,0
+720,0
+Configuration 185
+200,0
+800,0
+260,0
+320,0
+Configuration 186
+200,0
+800,0
+380,0
+440,0
+Configuration 187
+200,0
+800,0
+500,0
+560,0
+Configuration 188
+200,0
+800,0
+620,0
+680,0
+Configuration 189
+200,0
+800,0
+320,0
+380,0
+Configuration 190
+200,0
+800,0
+440,0
+500,0
+Configuration 191
+200,0
+800,0
+560,0
+620,0
+Configuration 192
+200,0
+800,0
+680,0
+740,0
+Configuration 193
+0,0
+400,0
+40,0
+80,0
+Configuration 194
+0,0
+400,0
+120,0
+160,0
+Configuration 195
+0,0
+400,0
+200,0
+240,0
+Configuration 196
+0,0
+400,0
+280,0
+320,0
+Configuration 197
+0,0
+400,0
+80,0
+120,0
+Configuration 198
+0,0
+400,0
+160,0
+200,0
+Configuration 199
+0,0
+400,0
+240,0
+280,0
+Configuration 200
+0,0
+400,0
+320,0
+360,0
+Configuration 201
+400,0
+800,0
+440,0
+480,0
+Configuration 202
+400,0
+800,0
+520,0
+560,0
+Configuration 203
+400,0
+800,0
+600,0
+640,0
+Configuration 204
+400,0
+800,0
+680,0
+720,0
+Configuration 205
+400,0
+800,0
+480,0
+520,0
+Configuration 206
+400,0
+800,0
+560,0
+600,0
+Configuration 207
+400,0
+800,0
+640,0
+680,0
+Configuration 208
+400,0
+800,0
+720,0
+760,0
+Configuration 209
+20,0
+420,0
+60,0
+100,0
+Configuration 210
+20,0
+420,0
+140,0
+180,0
+Configuration 211
+20,0
+420,0
+220,0
+260,0
+Configuration 212
+20,0
+420,0
+300,0
+340,0
+Configuration 213
+20,0
+420,0
+100,0
+140,0
+Configuration 214
+20,0
+420,0
+180,0
+220,0
+Configuration 215
+20,0
+420,0
+260,0
+300,0
+Configuration 216
+20,0
+420,0
+340,0
+380,0
+Configuration 217
+40,0
+440,0
+80,0
+120,0
+Configuration 218
+40,0
+440,0
+160,0
+200,0
+Configuration 219
+40,0
+440,0
+240,0
+280,0
+Configuration 220
+40,0
+440,0
+320,0
+360,0
+Configuration 221
+40,0
+440,0
+120,0
+160,0
+Configuration 222
+40,0
+440,0
+200,0
+240,0
+Configuration 223
+40,0
+440,0
+280,0
+320,0
+Configuration 224
+40,0
+440,0
+360,0
+400,0
+Configuration 225
+60,0
+460,0
+100,0
+140,0
+Configuration 226
+60,0
+460,0
+180,0
+220,0
+Configuration 227
+60,0
+460,0
+260,0
+300,0
+Configuration 228
+60,0
+460,0
+340,0
+380,0
+Configuration 229
+60,0
+460,0
+140,0
+180,0
+Configuration 230
+60,0
+460,0
+220,0
+260,0
+Configuration 231
+60,0
+460,0
+300,0
+340,0
+Configuration 232
+60,0
+460,0
+380,0
+420,0
+Configuration 233
+80,0
+480,0
+120,0
+160,0
+Configuration 234
+80,0
+480,0
+200,0
+240,0
+Configuration 235
+80,0
+480,0
+280,0
+320,0
+Configuration 236
+80,0
+480,0
+360,0
+400,0
+Configuration 237
+80,0
+480,0
+160,0
+200,0
+Configuration 238
+80,0
+480,0
+240,0
+280,0
+Configuration 239
+80,0
+480,0
+320,0
+360,0
+Configuration 240
+80,0
+480,0
+400,0
+440,0
+Configuration 241
+100,0
+500,0
+140,0
+180,0
+Configuration 242
+100,0
+500,0
+220,0
+260,0
+Configuration 243
+100,0
+500,0
+300,0
+340,0
+Configuration 244
+100,0
+500,0
+380,0
+420,0
+Configuration 245
+100,0
+500,0
+180,0
+220,0
+Configuration 246
+100,0
+500,0
+260,0
+300,0
+Configuration 247
+100,0
+500,0
+340,0
+380,0
+Configuration 248
+100,0
+500,0
+420,0
+460,0
+Configuration 249
+120,0
+520,0
+160,0
+200,0
+Configuration 250
+120,0
+520,0
+240,0
+280,0
+Configuration 251
+120,0
+520,0
+320,0
+360,0
+Configuration 252
+120,0
+520,0
+400,0
+440,0
+Configuration 253
+120,0
+520,0
+200,0
+240,0
+Configuration 254
+120,0
+520,0
+280,0
+320,0
+Configuration 255
+120,0
+520,0
+360,0
+400,0
+Configuration 256
+120,0
+520,0
+440,0
+480,0
+Configuration 257
+140,0
+540,0
+180,0
+220,0
+Configuration 258
+140,0
+540,0
+260,0
+300,0
+Configuration 259
+140,0
+540,0
+340,0
+380,0
+Configuration 260
+140,0
+540,0
+420,0
+460,0
+Configuration 261
+140,0
+540,0
+220,0
+260,0
+Configuration 262
+140,0
+540,0
+300,0
+340,0
+Configuration 263
+140,0
+540,0
+380,0
+420,0
+Configuration 264
+140,0
+540,0
+460,0
+500,0
+Configuration 265
+160,0
+560,0
+200,0
+240,0
+Configuration 266
+160,0
+560,0
+280,0
+320,0
+Configuration 267
+160,0
+560,0
+360,0
+400,0
+Configuration 268
+160,0
+560,0
+440,0
+480,0
+Configuration 269
+160,0
+560,0
+240,0
+280,0
+Configuration 270
+160,0
+560,0
+320,0
+360,0
+Configuration 271
+160,0
+560,0
+400,0
+440,0
+Configuration 272
+160,0
+560,0
+480,0
+520,0
+Configuration 273
+180,0
+580,0
+220,0
+260,0
+Configuration 274
+180,0
+580,0
+300,0
+340,0
+Configuration 275
+180,0
+580,0
+380,0
+420,0
+Configuration 276
+180,0
+580,0
+460,0
+500,0
+Configuration 277
+180,0
+580,0
+260,0
+300,0
+Configuration 278
+180,0
+580,0
+340,0
+380,0
+Configuration 279
+180,0
+580,0
+420,0
+460,0
+Configuration 280
+180,0
+580,0
+500,0
+540,0
+Configuration 281
+200,0
+600,0
+240,0
+280,0
+Configuration 282
+200,0
+600,0
+320,0
+360,0
+Configuration 283
+200,0
+600,0
+400,0
+440,0
+Configuration 284
+200,0
+600,0
+480,0
+520,0
+Configuration 285
+200,0
+600,0
+280,0
+320,0
+Configuration 286
+200,0
+600,0
+360,0
+400,0
+Configuration 287
+200,0
+600,0
+440,0
+480,0
+Configuration 288
+200,0
+600,0
+520,0
+560,0
+Configuration 289
+220,0
+620,0
+260,0
+300,0
+Configuration 290
+220,0
+620,0
+340,0
+380,0
+Configuration 291
+220,0
+620,0
+420,0
+460,0
+Configuration 292
+220,0
+620,0
+500,0
+540,0
+Configuration 293
+220,0
+620,0
+300,0
+340,0
+Configuration 294
+220,0
+620,0
+380,0
+420,0
+Configuration 295
+220,0
+620,0
+460,0
+500,0
+Configuration 296
+220,0
+620,0
+540,0
+580,0
+Configuration 297
+240,0
+640,0
+280,0
+320,0
+Configuration 298
+240,0
+640,0
+360,0
+400,0
+Configuration 299
+240,0
+640,0
+440,0
+480,0
+Configuration 300
+240,0
+640,0
+520,0
+560,0
+Configuration 301
+240,0
+640,0
+320,0
+360,0
+Configuration 302
+240,0
+640,0
+400,0
+440,0
+Configuration 303
+240,0
+640,0
+480,0
+520,0
+Configuration 304
+240,0
+640,0
+560,0
+600,0
+Configuration 305
+260,0
+660,0
+300,0
+340,0
+Configuration 306
+260,0
+660,0
+380,0
+420,0
+Configuration 307
+260,0
+660,0
+460,0
+500,0
+Configuration 308
+260,0
+660,0
+540,0
+580,0
+Configuration 309
+260,0
+660,0
+340,0
+380,0
+Configuration 310
+260,0
+660,0
+420,0
+460,0
+Configuration 311
+260,0
+660,0
+500,0
+540,0
+Configuration 312
+260,0
+660,0
+580,0
+620,0
+Configuration 313
+280,0
+680,0
+320,0
+360,0
+Configuration 314
+280,0
+680,0
+400,0
+440,0
+Configuration 315
+280,0
+680,0
+480,0
+520,0
+Configuration 316
+280,0
+680,0
+560,0
+600,0
+Configuration 317
+280,0
+680,0
+360,0
+400,0
+Configuration 318
+280,0
+680,0
+440,0
+480,0
+Configuration 319
+280,0
+680,0
+520,0
+560,0
+Configuration 320
+280,0
+680,0
+600,0
+640,0
+Configuration 321
+300,0
+700,0
+340,0
+380,0
+Configuration 322
+300,0
+700,0
+420,0
+460,0
+Configuration 323
+300,0
+700,0
+500,0
+540,0
+Configuration 324
+300,0
+700,0
+580,0
+620,0
+Configuration 325
+300,0
+700,0
+380,0
+420,0
+Configuration 326
+300,0
+700,0
+460,0
+500,0
+Configuration 327
+300,0
+700,0
+540,0
+580,0
+Configuration 328
+300,0
+700,0
+620,0
+660,0
+Configuration 329
+320,0
+720,0
+360,0
+400,0
+Configuration 330
+320,0
+720,0
+440,0
+480,0
+Configuration 331
+320,0
+720,0
+520,0
+560,0
+Configuration 332
+320,0
+720,0
+600,0
+640,0
+Configuration 333
+320,0
+720,0
+400,0
+440,0
+Configuration 334
+320,0
+720,0
+480,0
+520,0
+Configuration 335
+320,0
+720,0
+560,0
+600,0
+Configuration 336
+320,0
+720,0
+640,0
+680,0
+Configuration 337
+340,0
+740,0
+380,0
+420,0
+Configuration 338
+340,0
+740,0
+460,0
+500,0
+Configuration 339
+340,0
+740,0
+540,0
+580,0
+Configuration 340
+340,0
+740,0
+620,0
+660,0
+Configuration 341
+340,0
+740,0
+420,0
+460,0
+Configuration 342
+340,0
+740,0
+500,0
+540,0
+Configuration 343
+340,0
+740,0
+580,0
+620,0
+Configuration 344
+340,0
+740,0
+660,0
+700,0
+Configuration 345
+360,0
+760,0
+400,0
+440,0
+Configuration 346
+360,0
+760,0
+480,0
+520,0
+Configuration 347
+360,0
+760,0
+560,0
+600,0
+Configuration 348
+360,0
+760,0
+640,0
+680,0
+Configuration 349
+360,0
+760,0
+440,0
+480,0
+Configuration 350
+360,0
+760,0
+520,0
+560,0
+Configuration 351
+360,0
+760,0
+600,0
+640,0
+Configuration 352
+360,0
+760,0
+680,0
+720,0
+Configuration 353
+380,0
+780,0
+420,0
+460,0
+Configuration 354
+380,0
+780,0
+500,0
+540,0
+Configuration 355
+380,0
+780,0
+580,0
+620,0
+Configuration 356
+380,0
+780,0
+660,0
+700,0
+Configuration 357
+380,0
+780,0
+460,0
+500,0
+Configuration 358
+380,0
+780,0
+540,0
+580,0
+Configuration 359
+380,0
+780,0
+620,0
+660,0
+Configuration 360
+380,0
+780,0
+700,0
+740,0
+Configuration 361
+0,0
+200,0
+20,0
+40,0
+Configuration 362
+0,0
+200,0
+60,0
+80,0
+Configuration 363
+0,0
+200,0
+100,0
+120,0
+Configuration 364
+0,0
+200,0
+140,0
+160,0
+Configuration 365
+0,0
+200,0
+40,0
+60,0
+Configuration 366
+0,0
+200,0
+80,0
+100,0
+Configuration 367
+0,0
+200,0
+120,0
+140,0
+Configuration 368
+0,0
+200,0
+160,0
+180,0
+Configuration 369
+200,0
+400,0
+220,0
+240,0
+Configuration 370
+200,0
+400,0
+260,0
+280,0
+Configuration 371
+200,0
+400,0
+300,0
+320,0
+Configuration 372
+200,0
+400,0
+340,0
+360,0
+Configuration 373
+200,0
+400,0
+240,0
+260,0
+Configuration 374
+200,0
+400,0
+280,0
+300,0
+Configuration 375
+200,0
+400,0
+320,0
+340,0
+Configuration 376
+200,0
+400,0
+360,0
+380,0
+Configuration 377
+400,0
+600,0
+420,0
+440,0
+Configuration 378
+400,0
+600,0
+460,0
+480,0
+Configuration 379
+400,0
+600,0
+500,0
+520,0
+Configuration 380
+400,0
+600,0
+540,0
+560,0
+Configuration 381
+400,0
+600,0
+440,0
+460,0
+Configuration 382
+400,0
+600,0
+480,0
+500,0
+Configuration 383
+400,0
+600,0
+520,0
+540,0
+Configuration 384
+400,0
+600,0
+560,0
+580,0
+Configuration 385
+600,0
+800,0
+620,0
+640,0
+Configuration 386
+600,0
+800,0
+660,0
+680,0
+Configuration 387
+600,0
+800,0
+700,0
+720,0
+Configuration 388
+600,0
+800,0
+740,0
+760,0
+Configuration 389
+600,0
+800,0
+640,0
+660,0
+Configuration 390
+600,0
+800,0
+680,0
+700,0
+Configuration 391
+600,0
+800,0
+720,0
+740,0
+Configuration 392
+600,0
+800,0
+760,0
+780,0
+Configuration 393
+20,0
+220,0
+40,0
+60,0
+Configuration 394
+20,0
+220,0
+80,0
+100,0
+Configuration 395
+20,0
+220,0
+120,0
+140,0
+Configuration 396
+20,0
+220,0
+160,0
+180,0
+Configuration 397
+20,0
+220,0
+60,0
+80,0
+Configuration 398
+20,0
+220,0
+100,0
+120,0
+Configuration 399
+20,0
+220,0
+140,0
+160,0
+Configuration 400
+20,0
+220,0
+180,0
+200,0
+Configuration 401
+220,0
+420,0
+240,0
+260,0
+Configuration 402
+220,0
+420,0
+280,0
+300,0
+Configuration 403
+220,0
+420,0
+320,0
+340,0
+Configuration 404
+220,0
+420,0
+360,0
+380,0
+Configuration 405
+220,0
+420,0
+260,0
+280,0
+Configuration 406
+220,0
+420,0
+300,0
+320,0
+Configuration 407
+220,0
+420,0
+340,0
+360,0
+Configuration 408
+220,0
+420,0
+380,0
+400,0
+Configuration 409
+420,0
+620,0
+440,0
+460,0
+Configuration 410
+420,0
+620,0
+480,0
+500,0
+Configuration 411
+420,0
+620,0
+520,0
+540,0
+Configuration 412
+420,0
+620,0
+560,0
+580,0
+Configuration 413
+420,0
+620,0
+460,0
+480,0
+Configuration 414
+420,0
+620,0
+500,0
+520,0
+Configuration 415
+420,0
+620,0
+540,0
+560,0
+Configuration 416
+420,0
+620,0
+580,0
+600,0
+Configuration 417
+40,0
+240,0
+60,0
+80,0
+Configuration 418
+40,0
+240,0
+100,0
+120,0
+Configuration 419
+40,0
+240,0
+140,0
+160,0
+Configuration 420
+40,0
+240,0
+180,0
+200,0
+Configuration 421
+40,0
+240,0
+80,0
+100,0
+Configuration 422
+40,0
+240,0
+120,0
+140,0
+Configuration 423
+40,0
+240,0
+160,0
+180,0
+Configuration 424
+40,0
+240,0
+200,0
+220,0
+Configuration 425
+240,0
+440,0
+260,0
+280,0
+Configuration 426
+240,0
+440,0
+300,0
+320,0
+Configuration 427
+240,0
+440,0
+340,0
+360,0
+Configuration 428
+240,0
+440,0
+380,0
+400,0
+Configuration 429
+240,0
+440,0
+280,0
+300,0
+Configuration 430
+240,0
+440,0
+320,0
+340,0
+Configuration 431
+240,0
+440,0
+360,0
+380,0
+Configuration 432
+240,0
+440,0
+400,0
+420,0
+Configuration 433
+440,0
+640,0
+460,0
+480,0
+Configuration 434
+440,0
+640,0
+500,0
+520,0
+Configuration 435
+440,0
+640,0
+540,0
+560,0
+Configuration 436
+440,0
+640,0
+580,0
+600,0
+Configuration 437
+440,0
+640,0
+480,0
+500,0
+Configuration 438
+440,0
+640,0
+520,0
+540,0
+Configuration 439
+440,0
+640,0
+560,0
+580,0
+Configuration 440
+440,0
+640,0
+600,0
+620,0
+Configuration 441
+60,0
+260,0
+80,0
+100,0
+Configuration 442
+60,0
+260,0
+120,0
+140,0
+Configuration 443
+60,0
+260,0
+160,0
+180,0
+Configuration 444
+60,0
+260,0
+200,0
+220,0
+Configuration 445
+60,0
+260,0
+100,0
+120,0
+Configuration 446
+60,0
+260,0
+140,0
+160,0
+Configuration 447
+60,0
+260,0
+180,0
+200,0
+Configuration 448
+60,0
+260,0
+220,0
+240,0
+Configuration 449
+260,0
+460,0
+280,0
+300,0
+Configuration 450
+260,0
+460,0
+320,0
+340,0
+Configuration 451
+260,0
+460,0
+360,0
+380,0
+Configuration 452
+260,0
+460,0
+400,0
+420,0
+Configuration 453
+260,0
+460,0
+300,0
+320,0
+Configuration 454
+260,0
+460,0
+340,0
+360,0
+Configuration 455
+260,0
+460,0
+380,0
+400,0
+Configuration 456
+260,0
+460,0
+420,0
+440,0
+Configuration 457
+460,0
+660,0
+480,0
+500,0
+Configuration 458
+460,0
+660,0
+520,0
+540,0
+Configuration 459
+460,0
+660,0
+560,0
+580,0
+Configuration 460
+460,0
+660,0
+600,0
+620,0
+Configuration 461
+460,0
+660,0
+500,0
+520,0
+Configuration 462
+460,0
+660,0
+540,0
+560,0
+Configuration 463
+460,0
+660,0
+580,0
+600,0
+Configuration 464
+460,0
+660,0
+620,0
+640,0
+Configuration 465
+80,0
+280,0
+100,0
+120,0
+Configuration 466
+80,0
+280,0
+140,0
+160,0
+Configuration 467
+80,0
+280,0
+180,0
+200,0
+Configuration 468
+80,0
+280,0
+220,0
+240,0
+Configuration 469
+80,0
+280,0
+120,0
+140,0
+Configuration 470
+80,0
+280,0
+160,0
+180,0
+Configuration 471
+80,0
+280,0
+200,0
+220,0
+Configuration 472
+80,0
+280,0
+240,0
+260,0
+Configuration 473
+280,0
+480,0
+300,0
+320,0
+Configuration 474
+280,0
+480,0
+340,0
+360,0
+Configuration 475
+280,0
+480,0
+380,0
+400,0
+Configuration 476
+280,0
+480,0
+420,0
+440,0
+Configuration 477
+280,0
+480,0
+320,0
+340,0
+Configuration 478
+280,0
+480,0
+360,0
+380,0
+Configuration 479
+280,0
+480,0
+400,0
+420,0
+Configuration 480
+280,0
+480,0
+440,0
+460,0
+Configuration 481
+480,0
+680,0
+500,0
+520,0
+Configuration 482
+480,0
+680,0
+540,0
+560,0
+Configuration 483
+480,0
+680,0
+580,0
+600,0
+Configuration 484
+480,0
+680,0
+620,0
+640,0
+Configuration 485
+480,0
+680,0
+520,0
+540,0
+Configuration 486
+480,0
+680,0
+560,0
+580,0
+Configuration 487
+480,0
+680,0
+600,0
+620,0
+Configuration 488
+480,0
+680,0
+640,0
+660,0
+Configuration 489
+100,0
+300,0
+120,0
+140,0
+Configuration 490
+100,0
+300,0
+160,0
+180,0
+Configuration 491
+100,0
+300,0
+200,0
+220,0
+Configuration 492
+100,0
+300,0
+240,0
+260,0
+Configuration 493
+100,0
+300,0
+140,0
+160,0
+Configuration 494
+100,0
+300,0
+180,0
+200,0
+Configuration 495
+100,0
+300,0
+220,0
+240,0
+Configuration 496
+100,0
+300,0
+260,0
+280,0
+Configuration 497
+300,0
+500,0
+320,0
+340,0
+Configuration 498
+300,0
+500,0
+360,0
+380,0
+Configuration 499
+300,0
+500,0
+400,0
+420,0
+Configuration 500
+300,0
+500,0
+440,0
+460,0
+Configuration 501
+300,0
+500,0
+340,0
+360,0
+Configuration 502
+300,0
+500,0
+380,0
+400,0
+Configuration 503
+300,0
+500,0
+420,0
+440,0
+Configuration 504
+300,0
+500,0
+460,0
+480,0
+Configuration 505
+500,0
+700,0
+520,0
+540,0
+Configuration 506
+500,0
+700,0
+560,0
+580,0
+Configuration 507
+500,0
+700,0
+600,0
+620,0
+Configuration 508
+500,0
+700,0
+640,0
+660,0
+Configuration 509
+500,0
+700,0
+540,0
+560,0
+Configuration 510
+500,0
+700,0
+580,0
+600,0
+Configuration 511
+500,0
+700,0
+620,0
+640,0
+Configuration 512
+500,0
+700,0
+660,0
+680,0
+Configuration 513
+120,0
+320,0
+140,0
+160,0
+Configuration 514
+120,0
+320,0
+180,0
+200,0
+Configuration 515
+120,0
+320,0
+220,0
+240,0
+Configuration 516
+120,0
+320,0
+260,0
+280,0
+Configuration 517
+120,0
+320,0
+160,0
+180,0
+Configuration 518
+120,0
+320,0
+200,0
+220,0
+Configuration 519
+120,0
+320,0
+240,0
+260,0
+Configuration 520
+120,0
+320,0
+280,0
+300,0
+Configuration 521
+320,0
+520,0
+340,0
+360,0
+Configuration 522
+320,0
+520,0
+380,0
+400,0
+Configuration 523
+320,0
+520,0
+420,0
+440,0
+Configuration 524
+320,0
+520,0
+460,0
+480,0
+Configuration 525
+320,0
+520,0
+360,0
+380,0
+Configuration 526
+320,0
+520,0
+400,0
+420,0
+Configuration 527
+320,0
+520,0
+440,0
+460,0
+Configuration 528
+320,0
+520,0
+480,0
+500,0
+Configuration 529
+520,0
+720,0
+540,0
+560,0
+Configuration 530
+520,0
+720,0
+580,0
+600,0
+Configuration 531
+520,0
+720,0
+620,0
+640,0
+Configuration 532
+520,0
+720,0
+660,0
+680,0
+Configuration 533
+520,0
+720,0
+560,0
+580,0
+Configuration 534
+520,0
+720,0
+600,0
+620,0
+Configuration 535
+520,0
+720,0
+640,0
+660,0
+Configuration 536
+520,0
+720,0
+680,0
+700,0
+Configuration 537
+140,0
+340,0
+160,0
+180,0
+Configuration 538
+140,0
+340,0
+200,0
+220,0
+Configuration 539
+140,0
+340,0
+240,0
+260,0
+Configuration 540
+140,0
+340,0
+280,0
+300,0
+Configuration 541
+140,0
+340,0
+180,0
+200,0
+Configuration 542
+140,0
+340,0
+220,0
+240,0
+Configuration 543
+140,0
+340,0
+260,0
+280,0
+Configuration 544
+140,0
+340,0
+300,0
+320,0
+Configuration 545
+340,0
+540,0
+360,0
+380,0
+Configuration 546
+340,0
+540,0
+400,0
+420,0
+Configuration 547
+340,0
+540,0
+440,0
+460,0
+Configuration 548
+340,0
+540,0
+480,0
+500,0
+Configuration 549
+340,0
+540,0
+380,0
+400,0
+Configuration 550
+340,0
+540,0
+420,0
+440,0
+Configuration 551
+340,0
+540,0
+460,0
+480,0
+Configuration 552
+340,0
+540,0
+500,0
+520,0
+Configuration 553
+540,0
+740,0
+560,0
+580,0
+Configuration 554
+540,0
+740,0
+600,0
+620,0
+Configuration 555
+540,0
+740,0
+640,0
+660,0
+Configuration 556
+540,0
+740,0
+680,0
+700,0
+Configuration 557
+540,0
+740,0
+580,0
+600,0
+Configuration 558
+540,0
+740,0
+620,0
+640,0
+Configuration 559
+540,0
+740,0
+660,0
+680,0
+Configuration 560
+540,0
+740,0
+700,0
+720,0
+Configuration 561
+160,0
+360,0
+180,0
+200,0
+Configuration 562
+160,0
+360,0
+220,0
+240,0
+Configuration 563
+160,0
+360,0
+260,0
+280,0
+Configuration 564
+160,0
+360,0
+300,0
+320,0
+Configuration 565
+160,0
+360,0
+200,0
+220,0
+Configuration 566
+160,0
+360,0
+240,0
+260,0
+Configuration 567
+160,0
+360,0
+280,0
+300,0
+Configuration 568
+160,0
+360,0
+320,0
+340,0
+Configuration 569
+360,0
+560,0
+380,0
+400,0
+Configuration 570
+360,0
+560,0
+420,0
+440,0
+Configuration 571
+360,0
+560,0
+460,0
+480,0
+Configuration 572
+360,0
+560,0
+500,0
+520,0
+Configuration 573
+360,0
+560,0
+400,0
+420,0
+Configuration 574
+360,0
+560,0
+440,0
+460,0
+Configuration 575
+360,0
+560,0
+480,0
+500,0
+Configuration 576
+360,0
+560,0
+520,0
+540,0
+Configuration 577
+560,0
+760,0
+580,0
+600,0
+Configuration 578
+560,0
+760,0
+620,0
+640,0
+Configuration 579
+560,0
+760,0
+660,0
+680,0
+Configuration 580
+560,0
+760,0
+700,0
+720,0
+Configuration 581
+560,0
+760,0
+600,0
+620,0
+Configuration 582
+560,0
+760,0
+640,0
+660,0
+Configuration 583
+560,0
+760,0
+680,0
+700,0
+Configuration 584
+560,0
+760,0
+720,0
+740,0
+Configuration 585
+180,0
+380,0
+200,0
+220,0
+Configuration 586
+180,0
+380,0
+240,0
+260,0
+Configuration 587
+180,0
+380,0
+280,0
+300,0
+Configuration 588
+180,0
+380,0
+320,0
+340,0
+Configuration 589
+180,0
+380,0
+220,0
+240,0
+Configuration 590
+180,0
+380,0
+260,0
+280,0
+Configuration 591
+180,0
+380,0
+300,0
+320,0
+Configuration 592
+180,0
+380,0
+340,0
+360,0
+Configuration 593
+380,0
+580,0
+400,0
+420,0
+Configuration 594
+380,0
+580,0
+440,0
+460,0
+Configuration 595
+380,0
+580,0
+480,0
+500,0
+Configuration 596
+380,0
+580,0
+520,0
+540,0
+Configuration 597
+380,0
+580,0
+420,0
+440,0
+Configuration 598
+380,0
+580,0
+460,0
+480,0
+Configuration 599
+380,0
+580,0
+500,0
+520,0
+Configuration 600
+380,0
+580,0
+540,0
+560,0
+Configuration 601
+580,0
+780,0
+600,0
+620,0
+Configuration 602
+580,0
+780,0
+640,0
+660,0
+Configuration 603
+580,0
+780,0
+680,0
+700,0
+Configuration 604
+580,0
+780,0
+720,0
+740,0
+Configuration 605
+580,0
+780,0
+620,0
+640,0
+Configuration 606
+580,0
+780,0
+660,0
+680,0
+Configuration 607
+580,0
+780,0
+700,0
+720,0
+Configuration 608
+580,0
+780,0
+740,0
+760,0
+Configuration 609
+0,0
+100,0
+10,0
+20,0
+Configuration 610
+0,0
+100,0
+30,0
+40,0
+Configuration 611
+0,0
+100,0
+50,0
+60,0
+Configuration 612
+0,0
+100,0
+70,0
+80,0
+Configuration 613
+0,0
+100,0
+20,0
+30,0
+Configuration 614
+0,0
+100,0
+40,0
+50,0
+Configuration 615
+0,0
+100,0
+60,0
+70,0
+Configuration 616
+0,0
+100,0
+80,0
+90,0
+Configuration 617
+100,0
+200,0
+110,0
+120,0
+Configuration 618
+100,0
+200,0
+130,0
+140,0
+Configuration 619
+100,0
+200,0
+150,0
+160,0
+Configuration 620
+100,0
+200,0
+170,0
+180,0
+Configuration 621
+100,0
+200,0
+120,0
+130,0
+Configuration 622
+100,0
+200,0
+140,0
+150,0
+Configuration 623
+100,0
+200,0
+160,0
+170,0
+Configuration 624
+100,0
+200,0
+180,0
+190,0
+Configuration 625
+200,0
+300,0
+210,0
+220,0
+Configuration 626
+200,0
+300,0
+230,0
+240,0
+Configuration 627
+200,0
+300,0
+250,0
+260,0
+Configuration 628
+200,0
+300,0
+270,0
+280,0
+Configuration 629
+200,0
+300,0
+220,0
+230,0
+Configuration 630
+200,0
+300,0
+240,0
+250,0
+Configuration 631
+200,0
+300,0
+260,0
+270,0
+Configuration 632
+200,0
+300,0
+280,0
+290,0
+Configuration 633
+300,0
+400,0
+310,0
+320,0
+Configuration 634
+300,0
+400,0
+330,0
+340,0
+Configuration 635
+300,0
+400,0
+350,0
+360,0
+Configuration 636
+300,0
+400,0
+370,0
+380,0
+Configuration 637
+300,0
+400,0
+320,0
+330,0
+Configuration 638
+300,0
+400,0
+340,0
+350,0
+Configuration 639
+300,0
+400,0
+360,0
+370,0
+Configuration 640
+300,0
+400,0
+380,0
+390,0
+Configuration 641
+400,0
+500,0
+410,0
+420,0
+Configuration 642
+400,0
+500,0
+430,0
+440,0
+Configuration 643
+400,0
+500,0
+450,0
+460,0
+Configuration 644
+400,0
+500,0
+470,0
+480,0
+Configuration 645
+400,0
+500,0
+420,0
+430,0
+Configuration 646
+400,0
+500,0
+440,0
+450,0
+Configuration 647
+400,0
+500,0
+460,0
+470,0
+Configuration 648
+400,0
+500,0
+480,0
+490,0
+Configuration 649
+500,0
+600,0
+510,0
+520,0
+Configuration 650
+500,0
+600,0
+530,0
+540,0
+Configuration 651
+500,0
+600,0
+550,0
+560,0
+Configuration 652
+500,0
+600,0
+570,0
+580,0
+Configuration 653
+500,0
+600,0
+520,0
+530,0
+Configuration 654
+500,0
+600,0
+540,0
+550,0
+Configuration 655
+500,0
+600,0
+560,0
+570,0
+Configuration 656
+500,0
+600,0
+580,0
+590,0
+Configuration 657
+600,0
+700,0
+610,0
+620,0
+Configuration 658
+600,0
+700,0
+630,0
+640,0
+Configuration 659
+600,0
+700,0
+650,0
+660,0
+Configuration 660
+600,0
+700,0
+670,0
+680,0
+Configuration 661
+600,0
+700,0
+620,0
+630,0
+Configuration 662
+600,0
+700,0
+640,0
+650,0
+Configuration 663
+600,0
+700,0
+660,0
+670,0
+Configuration 664
+600,0
+700,0
+680,0
+690,0
+Configuration 665
+700,0
+800,0
+710,0
+720,0
+Configuration 666
+700,0
+800,0
+730,0
+740,0
+Configuration 667
+700,0
+800,0
+750,0
+760,0
+Configuration 668
+700,0
+800,0
+770,0
+780,0
+Configuration 669
+700,0
+800,0
+720,0
+730,0
+Configuration 670
+700,0
+800,0
+740,0
+750,0
+Configuration 671
+700,0
+800,0
+760,0
+770,0
+Configuration 672
+700,0
+800,0
+780,0
+790,0
+Configuration 673
+10,0
+110,0
+20,0
+30,0
+Configuration 674
+10,0
+110,0
+40,0
+50,0
+Configuration 675
+10,0
+110,0
+60,0
+70,0
+Configuration 676
+10,0
+110,0
+80,0
+90,0
+Configuration 677
+10,0
+110,0
+30,0
+40,0
+Configuration 678
+10,0
+110,0
+50,0
+60,0
+Configuration 679
+10,0
+110,0
+70,0
+80,0
+Configuration 680
+10,0
+110,0
+90,0
+100,0
+Configuration 681
+110,0
+210,0
+120,0
+130,0
+Configuration 682
+110,0
+210,0
+140,0
+150,0
+Configuration 683
+110,0
+210,0
+160,0
+170,0
+Configuration 684
+110,0
+210,0
+180,0
+190,0
+Configuration 685
+110,0
+210,0
+130,0
+140,0
+Configuration 686
+110,0
+210,0
+150,0
+160,0
+Configuration 687
+110,0
+210,0
+170,0
+180,0
+Configuration 688
+110,0
+210,0
+190,0
+200,0
+Configuration 689
+210,0
+310,0
+220,0
+230,0
+Configuration 690
+210,0
+310,0
+240,0
+250,0
+Configuration 691
+210,0
+310,0
+260,0
+270,0
+Configuration 692
+210,0
+310,0
+280,0
+290,0
+Configuration 693
+210,0
+310,0
+230,0
+240,0
+Configuration 694
+210,0
+310,0
+250,0
+260,0
+Configuration 695
+210,0
+310,0
+270,0
+280,0
+Configuration 696
+210,0
+310,0
+290,0
+300,0
+Configuration 697
+310,0
+410,0
+320,0
+330,0
+Configuration 698
+310,0
+410,0
+340,0
+350,0
+Configuration 699
+310,0
+410,0
+360,0
+370,0
+Configuration 700
+310,0
+410,0
+380,0
+390,0
+Configuration 701
+310,0
+410,0
+330,0
+340,0
+Configuration 702
+310,0
+410,0
+350,0
+360,0
+Configuration 703
+310,0
+410,0
+370,0
+380,0
+Configuration 704
+310,0
+410,0
+390,0
+400,0
+Configuration 705
+410,0
+510,0
+420,0
+430,0
+Configuration 706
+410,0
+510,0
+440,0
+450,0
+Configuration 707
+410,0
+510,0
+460,0
+470,0
+Configuration 708
+410,0
+510,0
+480,0
+490,0
+Configuration 709
+410,0
+510,0
+430,0
+440,0
+Configuration 710
+410,0
+510,0
+450,0
+460,0
+Configuration 711
+410,0
+510,0
+470,0
+480,0
+Configuration 712
+410,0
+510,0
+490,0
+500,0
+Configuration 713
+510,0
+610,0
+520,0
+530,0
+Configuration 714
+510,0
+610,0
+540,0
+550,0
+Configuration 715
+510,0
+610,0
+560,0
+570,0
+Configuration 716
+510,0
+610,0
+580,0
+590,0
+Configuration 717
+510,0
+610,0
+530,0
+540,0
+Configuration 718
+510,0
+610,0
+550,0
+560,0
+Configuration 719
+510,0
+610,0
+570,0
+580,0
+Configuration 720
+510,0
+610,0
+590,0
+600,0
+Configuration 721
+610,0
+710,0
+620,0
+630,0
+Configuration 722
+610,0
+710,0
+640,0
+650,0
+Configuration 723
+610,0
+710,0
+660,0
+670,0
+Configuration 724
+610,0
+710,0
+680,0
+690,0
+Configuration 725
+610,0
+710,0
+630,0
+640,0
+Configuration 726
+610,0
+710,0
+650,0
+660,0
+Configuration 727
+610,0
+710,0
+670,0
+680,0
+Configuration 728
+610,0
+710,0
+690,0
+700,0
+Configuration 729
+20,0
+120,0
+30,0
+40,0
+Configuration 730
+20,0
+120,0
+50,0
+60,0
+Configuration 731
+20,0
+120,0
+70,0
+80,0
+Configuration 732
+20,0
+120,0
+90,0
+100,0
+Configuration 733
+20,0
+120,0
+40,0
+50,0
+Configuration 734
+20,0
+120,0
+60,0
+70,0
+Configuration 735
+20,0
+120,0
+80,0
+90,0
+Configuration 736
+20,0
+120,0
+100,0
+110,0
+Configuration 737
+120,0
+220,0
+130,0
+140,0
+Configuration 738
+120,0
+220,0
+150,0
+160,0
+Configuration 739
+120,0
+220,0
+170,0
+180,0
+Configuration 740
+120,0
+220,0
+190,0
+200,0
+Configuration 741
+120,0
+220,0
+140,0
+150,0
+Configuration 742
+120,0
+220,0
+160,0
+170,0
+Configuration 743
+120,0
+220,0
+180,0
+190,0
+Configuration 744
+120,0
+220,0
+200,0
+210,0
+Configuration 745
+220,0
+320,0
+230,0
+240,0
+Configuration 746
+220,0
+320,0
+250,0
+260,0
+Configuration 747
+220,0
+320,0
+270,0
+280,0
+Configuration 748
+220,0
+320,0
+290,0
+300,0
+Configuration 749
+220,0
+320,0
+240,0
+250,0
+Configuration 750
+220,0
+320,0
+260,0
+270,0
+Configuration 751
+220,0
+320,0
+280,0
+290,0
+Configuration 752
+220,0
+320,0
+300,0
+310,0
+Configuration 753
+320,0
+420,0
+330,0
+340,0
+Configuration 754
+320,0
+420,0
+350,0
+360,0
+Configuration 755
+320,0
+420,0
+370,0
+380,0
+Configuration 756
+320,0
+420,0
+390,0
+400,0
+Configuration 757
+320,0
+420,0
+340,0
+350,0
+Configuration 758
+320,0
+420,0
+360,0
+370,0
+Configuration 759
+320,0
+420,0
+380,0
+390,0
+Configuration 760
+320,0
+420,0
+400,0
+410,0
+Configuration 761
+420,0
+520,0
+430,0
+440,0
+Configuration 762
+420,0
+520,0
+450,0
+460,0
+Configuration 763
+420,0
+520,0
+470,0
+480,0
+Configuration 764
+420,0
+520,0
+490,0
+500,0
+Configuration 765
+420,0
+520,0
+440,0
+450,0
+Configuration 766
+420,0
+520,0
+460,0
+470,0
+Configuration 767
+420,0
+520,0
+480,0
+490,0
+Configuration 768
+420,0
+520,0
+500,0
+510,0
+Configuration 769
+520,0
+620,0
+530,0
+540,0
+Configuration 770
+520,0
+620,0
+550,0
+560,0
+Configuration 771
+520,0
+620,0
+570,0
+580,0
+Configuration 772
+520,0
+620,0
+590,0
+600,0
+Configuration 773
+520,0
+620,0
+540,0
+550,0
+Configuration 774
+520,0
+620,0
+560,0
+570,0
+Configuration 775
+520,0
+620,0
+580,0
+590,0
+Configuration 776
+520,0
+620,0
+600,0
+610,0
+Configuration 777
+620,0
+720,0
+630,0
+640,0
+Configuration 778
+620,0
+720,0
+650,0
+660,0
+Configuration 779
+620,0
+720,0
+670,0
+680,0
+Configuration 780
+620,0
+720,0
+690,0
+700,0
+Configuration 781
+620,0
+720,0
+640,0
+650,0
+Configuration 782
+620,0
+720,0
+660,0
+670,0
+Configuration 783
+620,0
+720,0
+680,0
+690,0
+Configuration 784
+620,0
+720,0
+700,0
+710,0
+Configuration 785
+30,0
+130,0
+40,0
+50,0
+Configuration 786
+30,0
+130,0
+60,0
+70,0
+Configuration 787
+30,0
+130,0
+80,0
+90,0
+Configuration 788
+30,0
+130,0
+100,0
+110,0
+Configuration 789
+30,0
+130,0
+50,0
+60,0
+Configuration 790
+30,0
+130,0
+70,0
+80,0
+Configuration 791
+30,0
+130,0
+90,0
+100,0
+Configuration 792
+30,0
+130,0
+110,0
+120,0
+Configuration 793
+130,0
+230,0
+140,0
+150,0
+Configuration 794
+130,0
+230,0
+160,0
+170,0
+Configuration 795
+130,0
+230,0
+180,0
+190,0
+Configuration 796
+130,0
+230,0
+200,0
+210,0
+Configuration 797
+130,0
+230,0
+150,0
+160,0
+Configuration 798
+130,0
+230,0
+170,0
+180,0
+Configuration 799
+130,0
+230,0
+190,0
+200,0
+Configuration 800
+130,0
+230,0
+210,0
+220,0
+Configuration 801
+230,0
+330,0
+240,0
+250,0
+Configuration 802
+230,0
+330,0
+260,0
+270,0
+Configuration 803
+230,0
+330,0
+280,0
+290,0
+Configuration 804
+230,0
+330,0
+300,0
+310,0
+Configuration 805
+230,0
+330,0
+250,0
+260,0
+Configuration 806
+230,0
+330,0
+270,0
+280,0
+Configuration 807
+230,0
+330,0
+290,0
+300,0
+Configuration 808
+230,0
+330,0
+310,0
+320,0
+Configuration 809
+330,0
+430,0
+340,0
+350,0
+Configuration 810
+330,0
+430,0
+360,0
+370,0
+Configuration 811
+330,0
+430,0
+380,0
+390,0
+Configuration 812
+330,0
+430,0
+400,0
+410,0
+Configuration 813
+330,0
+430,0
+350,0
+360,0
+Configuration 814
+330,0
+430,0
+370,0
+380,0
+Configuration 815
+330,0
+430,0
+390,0
+400,0
+Configuration 816
+330,0
+430,0
+410,0
+420,0
+Configuration 817
+430,0
+530,0
+440,0
+450,0
+Configuration 818
+430,0
+530,0
+460,0
+470,0
+Configuration 819
+430,0
+530,0
+480,0
+490,0
+Configuration 820
+430,0
+530,0
+500,0
+510,0
+Configuration 821
+430,0
+530,0
+450,0
+460,0
+Configuration 822
+430,0
+530,0
+470,0
+480,0
+Configuration 823
+430,0
+530,0
+490,0
+500,0
+Configuration 824
+430,0
+530,0
+510,0
+520,0
+Configuration 825
+530,0
+630,0
+540,0
+550,0
+Configuration 826
+530,0
+630,0
+560,0
+570,0
+Configuration 827
+530,0
+630,0
+580,0
+590,0
+Configuration 828
+530,0
+630,0
+600,0
+610,0
+Configuration 829
+530,0
+630,0
+550,0
+560,0
+Configuration 830
+530,0
+630,0
+570,0
+580,0
+Configuration 831
+530,0
+630,0
+590,0
+600,0
+Configuration 832
+530,0
+630,0
+610,0
+620,0
+Configuration 833
+630,0
+730,0
+640,0
+650,0
+Configuration 834
+630,0
+730,0
+660,0
+670,0
+Configuration 835
+630,0
+730,0
+680,0
+690,0
+Configuration 836
+630,0
+730,0
+700,0
+710,0
+Configuration 837
+630,0
+730,0
+650,0
+660,0
+Configuration 838
+630,0
+730,0
+670,0
+680,0
+Configuration 839
+630,0
+730,0
+690,0
+700,0
+Configuration 840
+630,0
+730,0
+710,0
+720,0
+Configuration 841
+40,0
+140,0
+50,0
+60,0
+Configuration 842
+40,0
+140,0
+70,0
+80,0
+Configuration 843
+40,0
+140,0
+90,0
+100,0
+Configuration 844
+40,0
+140,0
+110,0
+120,0
+Configuration 845
+40,0
+140,0
+60,0
+70,0
+Configuration 846
+40,0
+140,0
+80,0
+90,0
+Configuration 847
+40,0
+140,0
+100,0
+110,0
+Configuration 848
+40,0
+140,0
+120,0
+130,0
+Configuration 849
+140,0
+240,0
+150,0
+160,0
+Configuration 850
+140,0
+240,0
+170,0
+180,0
+Configuration 851
+140,0
+240,0
+190,0
+200,0
+Configuration 852
+140,0
+240,0
+210,0
+220,0
+Configuration 853
+140,0
+240,0
+160,0
+170,0
+Configuration 854
+140,0
+240,0
+180,0
+190,0
+Configuration 855
+140,0
+240,0
+200,0
+210,0
+Configuration 856
+140,0
+240,0
+220,0
+230,0
+Configuration 857
+240,0
+340,0
+250,0
+260,0
+Configuration 858
+240,0
+340,0
+270,0
+280,0
+Configuration 859
+240,0
+340,0
+290,0
+300,0
+Configuration 860
+240,0
+340,0
+310,0
+320,0
+Configuration 861
+240,0
+340,0
+260,0
+270,0
+Configuration 862
+240,0
+340,0
+280,0
+290,0
+Configuration 863
+240,0
+340,0
+300,0
+310,0
+Configuration 864
+240,0
+340,0
+320,0
+330,0
+Configuration 865
+340,0
+440,0
+350,0
+360,0
+Configuration 866
+340,0
+440,0
+370,0
+380,0
+Configuration 867
+340,0
+440,0
+390,0
+400,0
+Configuration 868
+340,0
+440,0
+410,0
+420,0
+Configuration 869
+340,0
+440,0
+360,0
+370,0
+Configuration 870
+340,0
+440,0
+380,0
+390,0
+Configuration 871
+340,0
+440,0
+400,0
+410,0
+Configuration 872
+340,0
+440,0
+420,0
+430,0
+Configuration 873
+440,0
+540,0
+450,0
+460,0
+Configuration 874
+440,0
+540,0
+470,0
+480,0
+Configuration 875
+440,0
+540,0
+490,0
+500,0
+Configuration 876
+440,0
+540,0
+510,0
+520,0
+Configuration 877
+440,0
+540,0
+460,0
+470,0
+Configuration 878
+440,0
+540,0
+480,0
+490,0
+Configuration 879
+440,0
+540,0
+500,0
+510,0
+Configuration 880
+440,0
+540,0
+520,0
+530,0
+Configuration 881
+540,0
+640,0
+550,0
+560,0
+Configuration 882
+540,0
+640,0
+570,0
+580,0
+Configuration 883
+540,0
+640,0
+590,0
+600,0
+Configuration 884
+540,0
+640,0
+610,0
+620,0
+Configuration 885
+540,0
+640,0
+560,0
+570,0
+Configuration 886
+540,0
+640,0
+580,0
+590,0
+Configuration 887
+540,0
+640,0
+600,0
+610,0
+Configuration 888
+540,0
+640,0
+620,0
+630,0
+Configuration 889
+640,0
+740,0
+650,0
+660,0
+Configuration 890
+640,0
+740,0
+670,0
+680,0
+Configuration 891
+640,0
+740,0
+690,0
+700,0
+Configuration 892
+640,0
+740,0
+710,0
+720,0
+Configuration 893
+640,0
+740,0
+660,0
+670,0
+Configuration 894
+640,0
+740,0
+680,0
+690,0
+Configuration 895
+640,0
+740,0
+700,0
+710,0
+Configuration 896
+640,0
+740,0
+720,0
+730,0
+Configuration 897
+50,0
+150,0
+60,0
+70,0
+Configuration 898
+50,0
+150,0
+80,0
+90,0
+Configuration 899
+50,0
+150,0
+100,0
+110,0
+Configuration 900
+50,0
+150,0
+120,0
+130,0
+Configuration 901
+50,0
+150,0
+70,0
+80,0
+Configuration 902
+50,0
+150,0
+90,0
+100,0
+Configuration 903
+50,0
+150,0
+110,0
+120,0
+Configuration 904
+50,0
+150,0
+130,0
+140,0
+Configuration 905
+150,0
+250,0
+160,0
+170,0
+Configuration 906
+150,0
+250,0
+180,0
+190,0
+Configuration 907
+150,0
+250,0
+200,0
+210,0
+Configuration 908
+150,0
+250,0
+220,0
+230,0
+Configuration 909
+150,0
+250,0
+170,0
+180,0
+Configuration 910
+150,0
+250,0
+190,0
+200,0
+Configuration 911
+150,0
+250,0
+210,0
+220,0
+Configuration 912
+150,0
+250,0
+230,0
+240,0
+Configuration 913
+250,0
+350,0
+260,0
+270,0
+Configuration 914
+250,0
+350,0
+280,0
+290,0
+Configuration 915
+250,0
+350,0
+300,0
+310,0
+Configuration 916
+250,0
+350,0
+320,0
+330,0
+Configuration 917
+250,0
+350,0
+270,0
+280,0
+Configuration 918
+250,0
+350,0
+290,0
+300,0
+Configuration 919
+250,0
+350,0
+310,0
+320,0
+Configuration 920
+250,0
+350,0
+330,0
+340,0
+Configuration 921
+350,0
+450,0
+360,0
+370,0
+Configuration 922
+350,0
+450,0
+380,0
+390,0
+Configuration 923
+350,0
+450,0
+400,0
+410,0
+Configuration 924
+350,0
+450,0
+420,0
+430,0
+Configuration 925
+350,0
+450,0
+370,0
+380,0
+Configuration 926
+350,0
+450,0
+390,0
+400,0
+Configuration 927
+350,0
+450,0
+410,0
+420,0
+Configuration 928
+350,0
+450,0
+430,0
+440,0
+Configuration 929
+450,0
+550,0
+460,0
+470,0
+Configuration 930
+450,0
+550,0
+480,0
+490,0
+Configuration 931
+450,0
+550,0
+500,0
+510,0
+Configuration 932
+450,0
+550,0
+520,0
+530,0
+Configuration 933
+450,0
+550,0
+470,0
+480,0
+Configuration 934
+450,0
+550,0
+490,0
+500,0
+Configuration 935
+450,0
+550,0
+510,0
+520,0
+Configuration 936
+450,0
+550,0
+530,0
+540,0
+Configuration 937
+550,0
+650,0
+560,0
+570,0
+Configuration 938
+550,0
+650,0
+580,0
+590,0
+Configuration 939
+550,0
+650,0
+600,0
+610,0
+Configuration 940
+550,0
+650,0
+620,0
+630,0
+Configuration 941
+550,0
+650,0
+570,0
+580,0
+Configuration 942
+550,0
+650,0
+590,0
+600,0
+Configuration 943
+550,0
+650,0
+610,0
+620,0
+Configuration 944
+550,0
+650,0
+630,0
+640,0
+Configuration 945
+650,0
+750,0
+660,0
+670,0
+Configuration 946
+650,0
+750,0
+680,0
+690,0
+Configuration 947
+650,0
+750,0
+700,0
+710,0
+Configuration 948
+650,0
+750,0
+720,0
+730,0
+Configuration 949
+650,0
+750,0
+670,0
+680,0
+Configuration 950
+650,0
+750,0
+690,0
+700,0
+Configuration 951
+650,0
+750,0
+710,0
+720,0
+Configuration 952
+650,0
+750,0
+730,0
+740,0
+Configuration 953
+60,0
+160,0
+70,0
+80,0
+Configuration 954
+60,0
+160,0
+90,0
+100,0
+Configuration 955
+60,0
+160,0
+110,0
+120,0
+Configuration 956
+60,0
+160,0
+130,0
+140,0
+Configuration 957
+60,0
+160,0
+80,0
+90,0
+Configuration 958
+60,0
+160,0
+100,0
+110,0
+Configuration 959
+60,0
+160,0
+120,0
+130,0
+Configuration 960
+60,0
+160,0
+140,0
+150,0
+Configuration 961
+160,0
+260,0
+170,0
+180,0
+Configuration 962
+160,0
+260,0
+190,0
+200,0
+Configuration 963
+160,0
+260,0
+210,0
+220,0
+Configuration 964
+160,0
+260,0
+230,0
+240,0
+Configuration 965
+160,0
+260,0
+180,0
+190,0
+Configuration 966
+160,0
+260,0
+200,0
+210,0
+Configuration 967
+160,0
+260,0
+220,0
+230,0
+Configuration 968
+160,0
+260,0
+240,0
+250,0
+Configuration 969
+260,0
+360,0
+270,0
+280,0
+Configuration 970
+260,0
+360,0
+290,0
+300,0
+Configuration 971
+260,0
+360,0
+310,0
+320,0
+Configuration 972
+260,0
+360,0
+330,0
+340,0
+Configuration 973
+260,0
+360,0
+280,0
+290,0
+Configuration 974
+260,0
+360,0
+300,0
+310,0
+Configuration 975
+260,0
+360,0
+320,0
+330,0
+Configuration 976
+260,0
+360,0
+340,0
+350,0
+Configuration 977
+360,0
+460,0
+370,0
+380,0
+Configuration 978
+360,0
+460,0
+390,0
+400,0
+Configuration 979
+360,0
+460,0
+410,0
+420,0
+Configuration 980
+360,0
+460,0
+430,0
+440,0
+Configuration 981
+360,0
+460,0
+380,0
+390,0
+Configuration 982
+360,0
+460,0
+400,0
+410,0
+Configuration 983
+360,0
+460,0
+420,0
+430,0
+Configuration 984
+360,0
+460,0
+440,0
+450,0
+Configuration 985
+460,0
+560,0
+470,0
+480,0
+Configuration 986
+460,0
+560,0
+490,0
+500,0
+Configuration 987
+460,0
+560,0
+510,0
+520,0
+Configuration 988
+460,0
+560,0
+530,0
+540,0
+Configuration 989
+460,0
+560,0
+480,0
+490,0
+Configuration 990
+460,0
+560,0
+500,0
+510,0
+Configuration 991
+460,0
+560,0
+520,0
+530,0
+Configuration 992
+460,0
+560,0
+540,0
+550,0
+Configuration 993
+560,0
+660,0
+570,0
+580,0
+Configuration 994
+560,0
+660,0
+590,0
+600,0
+Configuration 995
+560,0
+660,0
+610,0
+620,0
+Configuration 996
+560,0
+660,0
+630,0
+640,0
+Configuration 997
+560,0
+660,0
+580,0
+590,0
+Configuration 998
+560,0
+660,0
+600,0
+610,0
+Configuration 999
+560,0
+660,0
+620,0
+630,0
+Configuration 1000
+560,0
+660,0
+640,0
+650,0
+Configuration 1001
+660,0
+760,0
+670,0
+680,0
+Configuration 1002
+660,0
+760,0
+690,0
+700,0
+Configuration 1003
+660,0
+760,0
+710,0
+720,0
+Configuration 1004
+660,0
+760,0
+730,0
+740,0
+Configuration 1005
+660,0
+760,0
+680,0
+690,0
+Configuration 1006
+660,0
+760,0
+700,0
+710,0
+Configuration 1007
+660,0
+760,0
+720,0
+730,0
+Configuration 1008
+660,0
+760,0
+740,0
+750,0
+Configuration 1009
+70,0
+170,0
+80,0
+90,0
+Configuration 1010
+70,0
+170,0
+100,0
+110,0
+Configuration 1011
+70,0
+170,0
+120,0
+130,0
+Configuration 1012
+70,0
+170,0
+140,0
+150,0
+Configuration 1013
+70,0
+170,0
+90,0
+100,0
+Configuration 1014
+70,0
+170,0
+110,0
+120,0
+Configuration 1015
+70,0
+170,0
+130,0
+140,0
+Configuration 1016
+70,0
+170,0
+150,0
+160,0
+Configuration 1017
+170,0
+270,0
+180,0
+190,0
+Configuration 1018
+170,0
+270,0
+200,0
+210,0
+Configuration 1019
+170,0
+270,0
+220,0
+230,0
+Configuration 1020
+170,0
+270,0
+240,0
+250,0
+Configuration 1021
+170,0
+270,0
+190,0
+200,0
+Configuration 1022
+170,0
+270,0
+210,0
+220,0
+Configuration 1023
+170,0
+270,0
+230,0
+240,0
+Configuration 1024
+170,0
+270,0
+250,0
+260,0
+Configuration 1025
+270,0
+370,0
+280,0
+290,0
+Configuration 1026
+270,0
+370,0
+300,0
+310,0
+Configuration 1027
+270,0
+370,0
+320,0
+330,0
+Configuration 1028
+270,0
+370,0
+340,0
+350,0
+Configuration 1029
+270,0
+370,0
+290,0
+300,0
+Configuration 1030
+270,0
+370,0
+310,0
+320,0
+Configuration 1031
+270,0
+370,0
+330,0
+340,0
+Configuration 1032
+270,0
+370,0
+350,0
+360,0
+Configuration 1033
+370,0
+470,0
+380,0
+390,0
+Configuration 1034
+370,0
+470,0
+400,0
+410,0
+Configuration 1035
+370,0
+470,0
+420,0
+430,0
+Configuration 1036
+370,0
+470,0
+440,0
+450,0
+Configuration 1037
+370,0
+470,0
+390,0
+400,0
+Configuration 1038
+370,0
+470,0
+410,0
+420,0
+Configuration 1039
+370,0
+470,0
+430,0
+440,0
+Configuration 1040
+370,0
+470,0
+450,0
+460,0
+Configuration 1041
+470,0
+570,0
+480,0
+490,0
+Configuration 1042
+470,0
+570,0
+500,0
+510,0
+Configuration 1043
+470,0
+570,0
+520,0
+530,0
+Configuration 1044
+470,0
+570,0
+540,0
+550,0
+Configuration 1045
+470,0
+570,0
+490,0
+500,0
+Configuration 1046
+470,0
+570,0
+510,0
+520,0
+Configuration 1047
+470,0
+570,0
+530,0
+540,0
+Configuration 1048
+470,0
+570,0
+550,0
+560,0
+Configuration 1049
+570,0
+670,0
+580,0
+590,0
+Configuration 1050
+570,0
+670,0
+600,0
+610,0
+Configuration 1051
+570,0
+670,0
+620,0
+630,0
+Configuration 1052
+570,0
+670,0
+640,0
+650,0
+Configuration 1053
+570,0
+670,0
+590,0
+600,0
+Configuration 1054
+570,0
+670,0
+610,0
+620,0
+Configuration 1055
+570,0
+670,0
+630,0
+640,0
+Configuration 1056
+570,0
+670,0
+650,0
+660,0
+Configuration 1057
+670,0
+770,0
+680,0
+690,0
+Configuration 1058
+670,0
+770,0
+700,0
+710,0
+Configuration 1059
+670,0
+770,0
+720,0
+730,0
+Configuration 1060
+670,0
+770,0
+740,0
+750,0
+Configuration 1061
+670,0
+770,0
+690,0
+700,0
+Configuration 1062
+670,0
+770,0
+710,0
+720,0
+Configuration 1063
+670,0
+770,0
+730,0
+740,0
+Configuration 1064
+670,0
+770,0
+750,0
+760,0
+Configuration 1065
+80,0
+180,0
+90,0
+100,0
+Configuration 1066
+80,0
+180,0
+110,0
+120,0
+Configuration 1067
+80,0
+180,0
+130,0
+140,0
+Configuration 1068
+80,0
+180,0
+150,0
+160,0
+Configuration 1069
+80,0
+180,0
+100,0
+110,0
+Configuration 1070
+80,0
+180,0
+120,0
+130,0
+Configuration 1071
+80,0
+180,0
+140,0
+150,0
+Configuration 1072
+80,0
+180,0
+160,0
+170,0
+Configuration 1073
+180,0
+280,0
+190,0
+200,0
+Configuration 1074
+180,0
+280,0
+210,0
+220,0
+Configuration 1075
+180,0
+280,0
+230,0
+240,0
+Configuration 1076
+180,0
+280,0
+250,0
+260,0
+Configuration 1077
+180,0
+280,0
+200,0
+210,0
+Configuration 1078
+180,0
+280,0
+220,0
+230,0
+Configuration 1079
+180,0
+280,0
+240,0
+250,0
+Configuration 1080
+180,0
+280,0
+260,0
+270,0
+Configuration 1081
+280,0
+380,0
+290,0
+300,0
+Configuration 1082
+280,0
+380,0
+310,0
+320,0
+Configuration 1083
+280,0
+380,0
+330,0
+340,0
+Configuration 1084
+280,0
+380,0
+350,0
+360,0
+Configuration 1085
+280,0
+380,0
+300,0
+310,0
+Configuration 1086
+280,0
+380,0
+320,0
+330,0
+Configuration 1087
+280,0
+380,0
+340,0
+350,0
+Configuration 1088
+280,0
+380,0
+360,0
+370,0
+Configuration 1089
+380,0
+480,0
+390,0
+400,0
+Configuration 1090
+380,0
+480,0
+410,0
+420,0
+Configuration 1091
+380,0
+480,0
+430,0
+440,0
+Configuration 1092
+380,0
+480,0
+450,0
+460,0
+Configuration 1093
+380,0
+480,0
+400,0
+410,0
+Configuration 1094
+380,0
+480,0
+420,0
+430,0
+Configuration 1095
+380,0
+480,0
+440,0
+450,0
+Configuration 1096
+380,0
+480,0
+460,0
+470,0
+Configuration 1097
+480,0
+580,0
+490,0
+500,0
+Configuration 1098
+480,0
+580,0
+510,0
+520,0
+Configuration 1099
+480,0
+580,0
+530,0
+540,0
+Configuration 1100
+480,0
+580,0
+550,0
+560,0
+Configuration 1101
+480,0
+580,0
+500,0
+510,0
+Configuration 1102
+480,0
+580,0
+520,0
+530,0
+Configuration 1103
+480,0
+580,0
+540,0
+550,0
+Configuration 1104
+480,0
+580,0
+560,0
+570,0
+Configuration 1105
+580,0
+680,0
+590,0
+600,0
+Configuration 1106
+580,0
+680,0
+610,0
+620,0
+Configuration 1107
+580,0
+680,0
+630,0
+640,0
+Configuration 1108
+580,0
+680,0
+650,0
+660,0
+Configuration 1109
+580,0
+680,0
+600,0
+610,0
+Configuration 1110
+580,0
+680,0
+620,0
+630,0
+Configuration 1111
+580,0
+680,0
+640,0
+650,0
+Configuration 1112
+580,0
+680,0
+660,0
+670,0
+Configuration 1113
+680,0
+780,0
+690,0
+700,0
+Configuration 1114
+680,0
+780,0
+710,0
+720,0
+Configuration 1115
+680,0
+780,0
+730,0
+740,0
+Configuration 1116
+680,0
+780,0
+750,0
+760,0
+Configuration 1117
+680,0
+780,0
+700,0
+710,0
+Configuration 1118
+680,0
+780,0
+720,0
+730,0
+Configuration 1119
+680,0
+780,0
+740,0
+750,0
+Configuration 1120
+680,0
+780,0
+760,0
+770,0
+Configuration 1121
+90,0
+190,0
+100,0
+110,0
+Configuration 1122
+90,0
+190,0
+120,0
+130,0
+Configuration 1123
+90,0
+190,0
+140,0
+150,0
+Configuration 1124
+90,0
+190,0
+160,0
+170,0
+Configuration 1125
+90,0
+190,0
+110,0
+120,0
+Configuration 1126
+90,0
+190,0
+130,0
+140,0
+Configuration 1127
+90,0
+190,0
+150,0
+160,0
+Configuration 1128
+90,0
+190,0
+170,0
+180,0
+Configuration 1129
+190,0
+290,0
+200,0
+210,0
+Configuration 1130
+190,0
+290,0
+220,0
+230,0
+Configuration 1131
+190,0
+290,0
+240,0
+250,0
+Configuration 1132
+190,0
+290,0
+260,0
+270,0
+Configuration 1133
+190,0
+290,0
+210,0
+220,0
+Configuration 1134
+190,0
+290,0
+230,0
+240,0
+Configuration 1135
+190,0
+290,0
+250,0
+260,0
+Configuration 1136
+190,0
+290,0
+270,0
+280,0
+Configuration 1137
+290,0
+390,0
+300,0
+310,0
+Configuration 1138
+290,0
+390,0
+320,0
+330,0
+Configuration 1139
+290,0
+390,0
+340,0
+350,0
+Configuration 1140
+290,0
+390,0
+360,0
+370,0
+Configuration 1141
+290,0
+390,0
+310,0
+320,0
+Configuration 1142
+290,0
+390,0
+330,0
+340,0
+Configuration 1143
+290,0
+390,0
+350,0
+360,0
+Configuration 1144
+290,0
+390,0
+370,0
+380,0
+Configuration 1145
+390,0
+490,0
+400,0
+410,0
+Configuration 1146
+390,0
+490,0
+420,0
+430,0
+Configuration 1147
+390,0
+490,0
+440,0
+450,0
+Configuration 1148
+390,0
+490,0
+460,0
+470,0
+Configuration 1149
+390,0
+490,0
+410,0
+420,0
+Configuration 1150
+390,0
+490,0
+430,0
+440,0
+Configuration 1151
+390,0
+490,0
+450,0
+460,0
+Configuration 1152
+390,0
+490,0
+470,0
+480,0
+Configuration 1153
+490,0
+590,0
+500,0
+510,0
+Configuration 1154
+490,0
+590,0
+520,0
+530,0
+Configuration 1155
+490,0
+590,0
+540,0
+550,0
+Configuration 1156
+490,0
+590,0
+560,0
+570,0
+Configuration 1157
+490,0
+590,0
+510,0
+520,0
+Configuration 1158
+490,0
+590,0
+530,0
+540,0
+Configuration 1159
+490,0
+590,0
+550,0
+560,0
+Configuration 1160
+490,0
+590,0
+570,0
+580,0
+Configuration 1161
+590,0
+690,0
+600,0
+610,0
+Configuration 1162
+590,0
+690,0
+620,0
+630,0
+Configuration 1163
+590,0
+690,0
+640,0
+650,0
+Configuration 1164
+590,0
+690,0
+660,0
+670,0
+Configuration 1165
+590,0
+690,0
+610,0
+620,0
+Configuration 1166
+590,0
+690,0
+630,0
+640,0
+Configuration 1167
+590,0
+690,0
+650,0
+660,0
+Configuration 1168
+590,0
+690,0
+670,0
+680,0
+Configuration 1169
+690,0
+790,0
+700,0
+710,0
+Configuration 1170
+690,0
+790,0
+720,0
+730,0
+Configuration 1171
+690,0
+790,0
+740,0
+750,0
+Configuration 1172
+690,0
+790,0
+760,0
+770,0
+Configuration 1173
+690,0
+790,0
+710,0
+720,0
+Configuration 1174
+690,0
+790,0
+730,0
+740,0
+Configuration 1175
+690,0
+790,0
+750,0
+760,0
+Configuration 1176
+690,0
+790,0
+770,0
+780,0
+Starting and ending x-location to calculate sensitivity values, spacing
+-320,1120,5
+Starting and ending z-location to calculate sensitivity values, spacing
+0.1,481,5
+Material resistivity (ohm.m)
+100
+Maximum current (Amp)
+1.0
+Minimum potential (mV)
+0.001
