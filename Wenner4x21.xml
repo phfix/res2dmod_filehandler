@@ -1,0 +1,2429 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Protocol>
+<Name> Wenner </Name>
+<Description> Wenner array protocol for 4 x 21 cable spread </Description>
+<Arraycode> 1 </Arraycode>
+<SpreadFile> 4X21.xml </SpreadFile>
+<Sequence>
+
+<Measure>
+<Tx> 1 73 </Tx>
+<Rx>
+25 49
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 3 75 </Tx>
+<Rx>
+27 51
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 5 77 </Tx>
+<Rx>
+29 53
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 7 79 </Tx>
+<Rx>
+31 55
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 9 81 </Tx>
+<Rx>
+33 57
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 1 67 </Tx>
+<Rx>
+23 45
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 3 69 </Tx>
+<Rx>
+25 47
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 5 71 </Tx>
+<Rx>
+27 49
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 7 73 </Tx>
+<Rx>
+29 51
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 9 75 </Tx>
+<Rx>
+31 53
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 11 77 </Tx>
+<Rx>
+33 55
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 13 79 </Tx>
+<Rx>
+35 57
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 15 81 </Tx>
+<Rx>
+37 59
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 1 61 </Tx>
+<Rx>
+21 41
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 3 63 </Tx>
+<Rx>
+23 43
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 5 65 </Tx>
+<Rx>
+25 45
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 7 67 </Tx>
+<Rx>
+27 47
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 9 69 </Tx>
+<Rx>
+29 49
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 11 71 </Tx>
+<Rx>
+31 51
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 13 73 </Tx>
+<Rx>
+33 53
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 15 75 </Tx>
+<Rx>
+35 55
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 17 77 </Tx>
+<Rx>
+37 57
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 19 79 </Tx>
+<Rx>
+39 59
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 21 81 </Tx>
+<Rx>
+41 61
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 1 55 </Tx>
+<Rx>
+19 37
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 3 57 </Tx>
+<Rx>
+21 39
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 5 59 </Tx>
+<Rx>
+23 41
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 7 61 </Tx>
+<Rx>
+25 43
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 9 63 </Tx>
+<Rx>
+27 45
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 11 65 </Tx>
+<Rx>
+29 47
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 13 67 </Tx>
+<Rx>
+31 49
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 15 69 </Tx>
+<Rx>
+33 51
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 17 71 </Tx>
+<Rx>
+35 53
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 19 73 </Tx>
+<Rx>
+37 55
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 21 75 </Tx>
+<Rx>
+39 57
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 23 77 </Tx>
+<Rx>
+41 59
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 25 79 </Tx>
+<Rx>
+43 61
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 27 81 </Tx>
+<Rx>
+45 63
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 1 49 </Tx>
+<Rx>
+17 33
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 3 51 </Tx>
+<Rx>
+19 35
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 5 53 </Tx>
+<Rx>
+21 37
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 7 55 </Tx>
+<Rx>
+23 39
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 9 57 </Tx>
+<Rx>
+25 41
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 11 59 </Tx>
+<Rx>
+27 43
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 13 61 </Tx>
+<Rx>
+29 45
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 15 63 </Tx>
+<Rx>
+31 47
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 17 65 </Tx>
+<Rx>
+33 49
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 19 67 </Tx>
+<Rx>
+35 51
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 21 69 </Tx>
+<Rx>
+37 53
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 23 71 </Tx>
+<Rx>
+39 55
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 25 73 </Tx>
+<Rx>
+41 57
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 27 75 </Tx>
+<Rx>
+43 59
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 29 77 </Tx>
+<Rx>
+45 61
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 31 79 </Tx>
+<Rx>
+47 63
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 33 81 </Tx>
+<Rx>
+49 65
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 1 43 </Tx>
+<Rx>
+15 29
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 3 45 </Tx>
+<Rx>
+17 31
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 5 47 </Tx>
+<Rx>
+19 33
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 7 49 </Tx>
+<Rx>
+21 35
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 9 51 </Tx>
+<Rx>
+23 37
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 11 53 </Tx>
+<Rx>
+25 39
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 13 55 </Tx>
+<Rx>
+27 41
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 15 57 </Tx>
+<Rx>
+29 43
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 17 59 </Tx>
+<Rx>
+31 45
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 19 61 </Tx>
+<Rx>
+33 47
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 21 63 </Tx>
+<Rx>
+35 49
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 23 65 </Tx>
+<Rx>
+37 51
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 25 67 </Tx>
+<Rx>
+39 53
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 27 69 </Tx>
+<Rx>
+41 55
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 29 71 </Tx>
+<Rx>
+43 57
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 31 73 </Tx>
+<Rx>
+45 59
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 33 75 </Tx>
+<Rx>
+47 61
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 35 77 </Tx>
+<Rx>
+49 63
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 37 79 </Tx>
+<Rx>
+51 65
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 39 81 </Tx>
+<Rx>
+53 67
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 1 37 </Tx>
+<Rx>
+13 25
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 37 73 </Tx>
+<Rx>
+49 61
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 3 39 </Tx>
+<Rx>
+15 27
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 39 75 </Tx>
+<Rx>
+51 63
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 5 41 </Tx>
+<Rx>
+17 29
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 41 77 </Tx>
+<Rx>
+53 65
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 7 43 </Tx>
+<Rx>
+19 31
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 43 79 </Tx>
+<Rx>
+55 67
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 9 45 </Tx>
+<Rx>
+21 33
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 45 81 </Tx>
+<Rx>
+57 69
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 11 47 </Tx>
+<Rx>
+23 35
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 13 49 </Tx>
+<Rx>
+25 37
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 15 51 </Tx>
+<Rx>
+27 39
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 17 53 </Tx>
+<Rx>
+29 41
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 19 55 </Tx>
+<Rx>
+31 43
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 21 57 </Tx>
+<Rx>
+33 45
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 23 59 </Tx>
+<Rx>
+35 47
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 25 61 </Tx>
+<Rx>
+37 49
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 27 63 </Tx>
+<Rx>
+39 51
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 29 65 </Tx>
+<Rx>
+41 53
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 31 67 </Tx>
+<Rx>
+43 55
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 33 69 </Tx>
+<Rx>
+45 57
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 35 71 </Tx>
+<Rx>
+47 59
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 1 31 </Tx>
+<Rx>
+11 21
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 31 61 </Tx>
+<Rx>
+41 51
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 3 33 </Tx>
+<Rx>
+13 23
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 33 63 </Tx>
+<Rx>
+43 53
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 5 35 </Tx>
+<Rx>
+15 25
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 35 65 </Tx>
+<Rx>
+45 55
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 7 37 </Tx>
+<Rx>
+17 27
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 37 67 </Tx>
+<Rx>
+47 57
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 9 39 </Tx>
+<Rx>
+19 29
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 39 69 </Tx>
+<Rx>
+49 59
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 11 41 </Tx>
+<Rx>
+21 31
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 41 71 </Tx>
+<Rx>
+51 61
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 13 43 </Tx>
+<Rx>
+23 33
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 43 73 </Tx>
+<Rx>
+53 63
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 15 45 </Tx>
+<Rx>
+25 35
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 45 75 </Tx>
+<Rx>
+55 65
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 17 47 </Tx>
+<Rx>
+27 37
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 47 77 </Tx>
+<Rx>
+57 67
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 19 49 </Tx>
+<Rx>
+29 39
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 49 79 </Tx>
+<Rx>
+59 69
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 21 51 </Tx>
+<Rx>
+31 41
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 51 81 </Tx>
+<Rx>
+61 71
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 23 53 </Tx>
+<Rx>
+33 43
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 25 55 </Tx>
+<Rx>
+35 45
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 27 57 </Tx>
+<Rx>
+37 47
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 29 59 </Tx>
+<Rx>
+39 49
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 1 25 </Tx>
+<Rx>
+9 17
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 25 49 </Tx>
+<Rx>
+33 41
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 49 73 </Tx>
+<Rx>
+57 65
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 3 27 </Tx>
+<Rx>
+11 19
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 27 51 </Tx>
+<Rx>
+35 43
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 51 75 </Tx>
+<Rx>
+59 67
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 5 29 </Tx>
+<Rx>
+13 21
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 29 53 </Tx>
+<Rx>
+37 45
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 53 77 </Tx>
+<Rx>
+61 69
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 7 31 </Tx>
+<Rx>
+15 23
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 31 55 </Tx>
+<Rx>
+39 47
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 55 79 </Tx>
+<Rx>
+63 71
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 9 33 </Tx>
+<Rx>
+17 25
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 33 57 </Tx>
+<Rx>
+41 49
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 57 81 </Tx>
+<Rx>
+65 73
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 11 35 </Tx>
+<Rx>
+19 27
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 35 59 </Tx>
+<Rx>
+43 51
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 13 37 </Tx>
+<Rx>
+21 29
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 37 61 </Tx>
+<Rx>
+45 53
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 15 39 </Tx>
+<Rx>
+23 31
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 39 63 </Tx>
+<Rx>
+47 55
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 17 41 </Tx>
+<Rx>
+25 33
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 41 65 </Tx>
+<Rx>
+49 57
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 19 43 </Tx>
+<Rx>
+27 35
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 43 67 </Tx>
+<Rx>
+51 59
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 21 45 </Tx>
+<Rx>
+29 37
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 45 69 </Tx>
+<Rx>
+53 61
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 23 47 </Tx>
+<Rx>
+31 39
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 47 71 </Tx>
+<Rx>
+55 63
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 1 19 </Tx>
+<Rx>
+7 13
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 19 37 </Tx>
+<Rx>
+25 31
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 37 55 </Tx>
+<Rx>
+43 49
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 55 73 </Tx>
+<Rx>
+61 67
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 3 21 </Tx>
+<Rx>
+9 15
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 21 39 </Tx>
+<Rx>
+27 33
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 39 57 </Tx>
+<Rx>
+45 51
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 57 75 </Tx>
+<Rx>
+63 69
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 5 23 </Tx>
+<Rx>
+11 17
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 23 41 </Tx>
+<Rx>
+29 35
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 41 59 </Tx>
+<Rx>
+47 53
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 59 77 </Tx>
+<Rx>
+65 71
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 7 25 </Tx>
+<Rx>
+13 19
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 25 43 </Tx>
+<Rx>
+31 37
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 43 61 </Tx>
+<Rx>
+49 55
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 61 79 </Tx>
+<Rx>
+67 73
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 9 27 </Tx>
+<Rx>
+15 21
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 27 45 </Tx>
+<Rx>
+33 39
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 45 63 </Tx>
+<Rx>
+51 57
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 63 81 </Tx>
+<Rx>
+69 75
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 11 29 </Tx>
+<Rx>
+17 23
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 29 47 </Tx>
+<Rx>
+35 41
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 47 65 </Tx>
+<Rx>
+53 59
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 13 31 </Tx>
+<Rx>
+19 25
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 31 49 </Tx>
+<Rx>
+37 43
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 49 67 </Tx>
+<Rx>
+55 61
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 15 33 </Tx>
+<Rx>
+21 27
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 33 51 </Tx>
+<Rx>
+39 45
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 51 69 </Tx>
+<Rx>
+57 63
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 17 35 </Tx>
+<Rx>
+23 29
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 35 53 </Tx>
+<Rx>
+41 47
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 53 71 </Tx>
+<Rx>
+59 65
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 1 13 </Tx>
+<Rx>
+5 9
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 13 25 </Tx>
+<Rx>
+17 21
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 25 37 </Tx>
+<Rx>
+29 33
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 37 49 </Tx>
+<Rx>
+41 45
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 49 61 </Tx>
+<Rx>
+53 57
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 61 73 </Tx>
+<Rx>
+65 69
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 3 15 </Tx>
+<Rx>
+7 11
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 15 27 </Tx>
+<Rx>
+19 23
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 27 39 </Tx>
+<Rx>
+31 35
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 39 51 </Tx>
+<Rx>
+43 47
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 51 63 </Tx>
+<Rx>
+55 59
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 63 75 </Tx>
+<Rx>
+67 71
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 5 17 </Tx>
+<Rx>
+9 13
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 17 29 </Tx>
+<Rx>
+21 25
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 29 41 </Tx>
+<Rx>
+33 37
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 41 53 </Tx>
+<Rx>
+45 49
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 53 65 </Tx>
+<Rx>
+57 61
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 65 77 </Tx>
+<Rx>
+69 73
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 7 19 </Tx>
+<Rx>
+11 15
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 19 31 </Tx>
+<Rx>
+23 27
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 31 43 </Tx>
+<Rx>
+35 39
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 43 55 </Tx>
+<Rx>
+47 51
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 55 67 </Tx>
+<Rx>
+59 63
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 67 79 </Tx>
+<Rx>
+71 75
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 9 21 </Tx>
+<Rx>
+13 17
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 21 33 </Tx>
+<Rx>
+25 29
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 33 45 </Tx>
+<Rx>
+37 41
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 45 57 </Tx>
+<Rx>
+49 53
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 57 69 </Tx>
+<Rx>
+61 65
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 69 81 </Tx>
+<Rx>
+73 77
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 11 23 </Tx>
+<Rx>
+15 19
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 23 35 </Tx>
+<Rx>
+27 31
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 35 47 </Tx>
+<Rx>
+39 43
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 47 59 </Tx>
+<Rx>
+51 55
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 59 71 </Tx>
+<Rx>
+63 67
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 1 7 </Tx>
+<Rx>
+3 5
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 7 13 </Tx>
+<Rx>
+9 11
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 13 19 </Tx>
+<Rx>
+15 17
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 19 25 </Tx>
+<Rx>
+21 23
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 25 31 </Tx>
+<Rx>
+27 29
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 31 37 </Tx>
+<Rx>
+33 35
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 37 43 </Tx>
+<Rx>
+39 41
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 43 49 </Tx>
+<Rx>
+45 47
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 49 55 </Tx>
+<Rx>
+51 53
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 55 61 </Tx>
+<Rx>
+57 59
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 61 67 </Tx>
+<Rx>
+63 65
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 67 73 </Tx>
+<Rx>
+69 71
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 73 79 </Tx>
+<Rx>
+75 77
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 3 9 </Tx>
+<Rx>
+5 7
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 9 15 </Tx>
+<Rx>
+11 13
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 15 21 </Tx>
+<Rx>
+17 19
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 21 27 </Tx>
+<Rx>
+23 25
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 27 33 </Tx>
+<Rx>
+29 31
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 33 39 </Tx>
+<Rx>
+35 37
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 39 45 </Tx>
+<Rx>
+41 43
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 45 51 </Tx>
+<Rx>
+47 49
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 51 57 </Tx>
+<Rx>
+53 55
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 57 63 </Tx>
+<Rx>
+59 61
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 63 69 </Tx>
+<Rx>
+65 67
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 69 75 </Tx>
+<Rx>
+71 73
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 75 81 </Tx>
+<Rx>
+77 79
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 5 11 </Tx>
+<Rx>
+7 9
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 11 17 </Tx>
+<Rx>
+13 15
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 17 23 </Tx>
+<Rx>
+19 21
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 23 29 </Tx>
+<Rx>
+25 27
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 29 35 </Tx>
+<Rx>
+31 33
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 35 41 </Tx>
+<Rx>
+37 39
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 41 47 </Tx>
+<Rx>
+43 45
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 47 53 </Tx>
+<Rx>
+49 51
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 53 59 </Tx>
+<Rx>
+55 57
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 59 65 </Tx>
+<Rx>
+61 63
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 65 71 </Tx>
+<Rx>
+67 69
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 71 77 </Tx>
+<Rx>
+73 75
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 21 30 </Tx>
+<Rx>
+24 27
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 30 39 </Tx>
+<Rx>
+33 36
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 39 48 </Tx>
+<Rx>
+42 45
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 48 57 </Tx>
+<Rx>
+51 54
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 22 31 </Tx>
+<Rx>
+25 28
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 31 40 </Tx>
+<Rx>
+34 37
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 40 49 </Tx>
+<Rx>
+43 46
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 49 58 </Tx>
+<Rx>
+52 55
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 23 32 </Tx>
+<Rx>
+26 29
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 32 41 </Tx>
+<Rx>
+35 38
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 41 50 </Tx>
+<Rx>
+44 47
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 50 59 </Tx>
+<Rx>
+53 56
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 24 33 </Tx>
+<Rx>
+27 30
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 33 42 </Tx>
+<Rx>
+36 39
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 42 51 </Tx>
+<Rx>
+45 48
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 51 60 </Tx>
+<Rx>
+54 57
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 25 34 </Tx>
+<Rx>
+28 31
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 34 43 </Tx>
+<Rx>
+37 40
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 43 52 </Tx>
+<Rx>
+46 49
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 52 61 </Tx>
+<Rx>
+55 58
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 26 35 </Tx>
+<Rx>
+29 32
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 35 44 </Tx>
+<Rx>
+38 41
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 44 53 </Tx>
+<Rx>
+47 50
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 27 36 </Tx>
+<Rx>
+30 33
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 36 45 </Tx>
+<Rx>
+39 42
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 45 54 </Tx>
+<Rx>
+48 51
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 28 37 </Tx>
+<Rx>
+31 34
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 37 46 </Tx>
+<Rx>
+40 43
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 46 55 </Tx>
+<Rx>
+49 52
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 29 38 </Tx>
+<Rx>
+32 35
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 38 47 </Tx>
+<Rx>
+41 44
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 47 56 </Tx>
+<Rx>
+50 53
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 22 28 </Tx>
+<Rx>
+24 26
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 28 34 </Tx>
+<Rx>
+30 32
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 34 40 </Tx>
+<Rx>
+36 38
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 40 46 </Tx>
+<Rx>
+42 44
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 46 52 </Tx>
+<Rx>
+48 50
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 52 58 </Tx>
+<Rx>
+54 56
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 24 30 </Tx>
+<Rx>
+26 28
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 30 36 </Tx>
+<Rx>
+32 34
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 36 42 </Tx>
+<Rx>
+38 40
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 42 48 </Tx>
+<Rx>
+44 46
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 48 54 </Tx>
+<Rx>
+50 52
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 54 60 </Tx>
+<Rx>
+56 58
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 26 32 </Tx>
+<Rx>
+28 30
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 32 38 </Tx>
+<Rx>
+34 36
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 38 44 </Tx>
+<Rx>
+40 42
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 44 50 </Tx>
+<Rx>
+46 48
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 50 56 </Tx>
+<Rx>
+52 54
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 21 24 </Tx>
+<Rx>
+22 23
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 24 27 </Tx>
+<Rx>
+25 26
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 27 30 </Tx>
+<Rx>
+28 29
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 30 33 </Tx>
+<Rx>
+31 32
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 33 36 </Tx>
+<Rx>
+34 35
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 36 39 </Tx>
+<Rx>
+37 38
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 39 42 </Tx>
+<Rx>
+40 41
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 42 45 </Tx>
+<Rx>
+43 44
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 45 48 </Tx>
+<Rx>
+46 47
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 48 51 </Tx>
+<Rx>
+49 50
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 51 54 </Tx>
+<Rx>
+52 53
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 54 57 </Tx>
+<Rx>
+55 56
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 57 60 </Tx>
+<Rx>
+58 59
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 22 25 </Tx>
+<Rx>
+23 24
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 25 28 </Tx>
+<Rx>
+26 27
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 28 31 </Tx>
+<Rx>
+29 30
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 31 34 </Tx>
+<Rx>
+32 33
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 34 37 </Tx>
+<Rx>
+35 36
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 37 40 </Tx>
+<Rx>
+38 39
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 40 43 </Tx>
+<Rx>
+41 42
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 43 46 </Tx>
+<Rx>
+44 45
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 46 49 </Tx>
+<Rx>
+47 48
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 49 52 </Tx>
+<Rx>
+50 51
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 52 55 </Tx>
+<Rx>
+53 54
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 55 58 </Tx>
+<Rx>
+56 57
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 58 61 </Tx>
+<Rx>
+59 60
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 23 26 </Tx>
+<Rx>
+24 25
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 26 29 </Tx>
+<Rx>
+27 28
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 29 32 </Tx>
+<Rx>
+30 31
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 32 35 </Tx>
+<Rx>
+33 34
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 35 38 </Tx>
+<Rx>
+36 37
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 38 41 </Tx>
+<Rx>
+39 40
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 41 44 </Tx>
+<Rx>
+42 43
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 44 47 </Tx>
+<Rx>
+45 46
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 47 50 </Tx>
+<Rx>
+48 49
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 50 53 </Tx>
+<Rx>
+51 52
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 53 56 </Tx>
+<Rx>
+54 55
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 56 59 </Tx>
+<Rx>
+57 58
+</Rx>
+</Measure>
+
+<Measure>
+<Tx> 0 59 </Tx>
+</Measure>
+
+</Sequence>
+</Protocol>

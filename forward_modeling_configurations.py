@@ -16,9 +16,46 @@ class Configuration:
         self.xp2 = xp2
         self.zp2 = zp2
 
+    def get_extent_x(self):
+        return min(self.xc1, self.xc2, self.xp1, self.xp2),max(self.xc1, self.xc2, self.xp1, self.xp2)
+    
+    def get_extent_z(self):
+        return min(self.zc1, self.zc2, self.zp1, self.zp2),max(self.zc1, self.zc2, self.zp1, self.zp2)
+
+    def get_max_electrode_distance_x(self):
+        a,b=self.get_extent_x()
+        return abs(a-b)
+
+    def get_max_electrode_distance_z(self):
+        a,b=self.get_extent_z()
+        return abs(a-b)
+
     def get_formated_string(self,new_id:int)->str:
         return f'Configuration {new_id}\n{self.xc1:.0f},{self.zc1:.0f}\n{self.xc2:.0f},{self.zc2:.0f}\n{self.xp1:.0f},{self.zp1:.0f}\n{self.xp2:.0f},{self.zp2:.0f}\n'
     
+    def __eq__(self, other):
+        return self.xc1==other.xc1 and self.xc2==other.xc2 and \
+        self.xp1==other.xp1 and self.xp2==other.xp2 and \
+        self.zc1==other.zc1 and self.zc2==other.zc2 and \
+        self.zp1==other.zp1 and self.zp2==other.zp2
+
+    def __hash__(self):
+        return hash((self.xc1, self.xc2, self.zc1, self.zc2, self.xp1,
+            self.zp1, self.xp2, self.zp2))
+
+    def is_inside(self,start_x,stop_x):
+        if self.xc1< start_x or self.xc1> stop_x: 
+            return False
+        if self.xc2< start_x or self.xc2> stop_x: 
+            return False
+        if self.xp1< start_x or self.xp1> stop_x: 
+            return False
+        if self.xp2< start_x or self.xp2> stop_x: 
+            return False
+        return True
+
+    
+
 class ForwardModellingConfigurations:
     def __init__(self,name,electrode_spacing):
         self.name = name
@@ -59,6 +96,33 @@ class ForwardModellingConfigurations:
         s+='Minimum potential (mV)\n'
         s+=f'{self.minimum_potential:.3f}\n'
         return s
+
+    def update_extent(self):
+        high_value=1e6
+        low_value=-1e6
+        x_min=high_value
+        x_max=low_value
+        x_electrode_distance=low_value
+        z_min=high_value
+        z_max=low_value
+        z_electrode_distance=low_value
+
+        for c in self.all_configurations:
+            x_min=min(x_min, c.get_extent_x()[0])
+            x_max=max(x_max, c.get_extent_x()[1])
+            x_electrode_distance=max(x_electrode_distance,c.get_max_electrode_distance_x())
+            z_min=min(z_min, c.get_extent_z()[0])
+            z_max=max(z_max, c.get_extent_z()[1])
+            z_electrode_distance=max(z_electrode_distance,c.get_max_electrode_distance_z())
+
+        # 
+        depth_penetration_factor=0.25
+        self.x_start=x_min-x_electrode_distance*depth_penetration_factor
+        self.x_end=x_max+x_electrode_distance*depth_penetration_factor
+        self.z_end=max(x_electrode_distance *depth_penetration_factor,z_max+z_electrode_distance*depth_penetration_factor)
+        #self.z_start=z_min
+        #self.z_end=z_max
+            
 
 
     def export(self, filename):
